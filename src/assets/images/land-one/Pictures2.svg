@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="563px" height="555px" viewBox="0 0 563 555" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,33 L278,33 C284.075132,33 289,37.9248678 289,44 L289,371 C289,377.075132 284.075132,382 278,382 L11,382 C4.92486775,382 7.43989126e-16,377.075132 0,371 L0,44 C-7.43989126e-16,37.9248678 4.92486775,33 11,33 Z" id="path-1"></path>
+        <filter x="-17.1%" y="-14.2%" width="134.3%" height="128.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35,0 L296,0 C302.075132,-1.11598369e-15 307,4.92486775 307,11 L307,400 C307,406.075132 302.075132,411 296,411 L35,411 C28.9248678,411 24,406.075132 24,400 L24,11 C24,4.92486775 28.9248678,1.11598369e-15 35,0 Z" id="path-3"></path>
+        <filter x="-17.5%" y="-12.0%" width="135.0%" height="124.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35,0 L296,0 C302.075132,-1.11598369e-15 307,4.92486775 307,11 L307,400 C307,406.075132 302.075132,411 296,411 L35,411 C28.9248678,411 24,406.075132 24,400 L24,11 C24,4.92486775 28.9248678,1.11598369e-15 35,0 Z" id="path-5"></path>
+        <filter x="-17.5%" y="-12.0%" width="135.0%" height="124.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L405,0 C409.418278,-8.11624501e-16 413,3.581722 413,8 L413,213 C413,217.418278 409.418278,221 405,221 L8,221 C3.581722,221 5.41083001e-16,217.418278 0,213 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-7"></path>
+        <filter x="-12.0%" y="-22.4%" width="124.0%" height="144.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rentorr-Landing---Landlord-1" transform="translate(-70.000000, -2216.000000)">
+            <g id="Block-3" transform="translate(103.000000, 1587.000000)">
+                <g id="Group-8" transform="translate(0.000000, 662.000000)">
+                    <g id="Card">
+                        <g id="Group-48">
+                            <g id="Base">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Base">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="Base">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="Group-47" transform="translate(51.000000, 33.000000)" fill="#222634" font-family="Overpass-Bold, Overpass" font-size="20.16" font-weight="bold" line-spacing="23.04">
+                            <text id="Payouts">
+                                <tspan x="0" y="20">Payouts</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-7" transform="translate(84.000000, 252.000000)">
+                        <g id="Card" transform="translate(0.000000, 16.000000)">
+                            <g id="Group-44" transform="translate(114.000000, 81.000000)">
+                                <g id="Group-39">
+                                    <g id="Line-01">
+                                        <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="188" y="21">Due</tspan>
+                                        </text>
+                                        <g id="Icons/Highlight-disabled" transform="translate(168.000000, 10.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                            <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                            <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                        </g>
+                                        <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="0" y="13">May Rent</tspan>
+                                        </text>
+                                        <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="0" y="37">Bank of Africa X1234</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-44" transform="translate(18.000000, 61.000000)">
+                                <g id="Group-39">
+                                    <g id="Line-01">
+                                        <text id="May-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="0" y="13">May 25, 2019</tspan>
+                                        </text>
+                                        <text id="1:00-PM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="0" y="37">1:00 PM</tspan>
+                                        </text>
+                                        <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="308" y="21">Due</tspan>
+                                        </text>
+                                        <g id="Icons/Highlight-disabled" transform="translate(288.000000, 10.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                            <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                            <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                        </g>
+                                        <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="120" y="13">May Rent</tspan>
+                                        </text>
+                                        <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="120" y="37">Bank of Africa X1234</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-44">
+                                <g id="Group-49">
+                                    <g id="Base">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    </g>
+                                    <text id="Mar-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="40" y="145">Mar 25, 2019</tspan>
+                                    </text>
+                                    <text id="10:15-AM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="40" y="169">10:15 AM</tspan>
+                                    </text>
+                                    <polygon id="Rectangle" fill="#EEEEF2" fill-rule="nonzero" points="40 103 377 103 377 104 40 104"></polygon>
+                                    <text id="Paid" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="348" y="157">Paid</tspan>
+                                    </text>
+                                    <g id="Icons/Highlight-green" transform="translate(328.000000, 147.000000)" fill="#4CAF50" fill-rule="nonzero">
+                                        <circle id="Oval" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                        <circle id="Oval" cx="6" cy="6" r="3"></circle>
+                                    </g>
+                                    <text id="March-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="160" y="145">March Rent</tspan>
+                                    </text>
+                                    <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="160" y="169">Bank of Africa X1234</tspan>
+                                    </text>
+                                    <text id="May-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="40" y="52">May 25, 2019</tspan>
+                                    </text>
+                                    <text id="1:00-PM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="40" y="76">1:00 PM</tspan>
+                                    </text>
+                                    <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="348" y="60">Due</tspan>
+                                    </text>
+                                    <g id="Icons/Highlight-disabled" transform="translate(328.000000, 49.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                        <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                        <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                    </g>
+                                    <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="160" y="52">May Rent</tspan>
+                                    </text>
+                                    <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="160" y="76">Bank of Africa X1234</tspan>
+                                    </text>
+                                </g>
+                                <g id="Line-03" transform="translate(40.000000, 103.000000)"></g>
+                                <g id="Group-39" transform="translate(40.000000, 39.000000)">
+                                    <g id="Line-01"></g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Blue-Button_default" transform="translate(40.000000, 0.000000)">
+                            <polygon id="Base" fill="#1A5DC6" fill-rule="nonzero" points="-1.22298005e-16 0 141 0 141 32 -1.22298005e-16 32"></polygon>
+                            <text id="Create-Listing" font-family="Overpass-Black, Overpass" font-size="12" font-weight="700" line-spacing="16" letter-spacing="0.400000006" fill="#FFFFFF">
+                                <tspan x="13.924" y="18">REQUEST  R11,960</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Monthly-rent-Copy" transform="translate(51.000000, 91.000000)">
+                        <text id="R11,960" font-family="Overpass-Bold, Overpass" font-size="20" font-weight="bold" fill="#222634">
+                            <tspan x="0" y="20">R11,960</tspan>
+                        </text>
+                        <text id="Monthly-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                            <tspan x="1" y="42">Monthly Rent</tspan>
+                        </text>
+                        <text id="Until-Apr-1,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                            <tspan x="115" y="42">Until Apr 1, 2019</tspan>
+                        </text>
+                        <g id="Tag" transform="translate(99.000000, 2.000000)">
+                            <rect id="Rectangle" fill="#FF5722" x="0" y="0" width="58" height="17"></rect>
+                            <text id="Overdue" font-family="SourceSansPro-Black, Source Sans Pro" font-size="11" font-weight="700" letter-spacing="0.05076923" fill="#FFFFFF">
+                                <tspan x="5" y="12">OVERDUE</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle" fill="#E8E9EF" x="96" y="37" width="3" height="3"></rect>
+                    </g>
+                    <g id="Security-deposit-Copy" transform="translate(51.000000, 161.000000)">
+                        <text id="Security-Deposit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                            <tspan x="0" y="42">Security Deposit</tspan>
+                        </text>
+                        <text id="R11,960" font-family="Overpass-Bold, Overpass" font-size="20" font-weight="bold" fill="#222634">
+                            <tspan x="0" y="20">R11,960</tspan>
+                        </text>
+                        <g id="Tag" transform="translate(99.000000, 1.000000)">
+                            <rect id="Rectangle" fill="#4CAF50" x="0" y="0" width="34" height="17"></rect>
+                            <text id="PAID" font-family="SourceSansPro-Black, Source Sans Pro" font-size="11" font-weight="700" letter-spacing="0.05076923" fill="#FFFFFF">
+                                <tspan x="5" y="12">PAID</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

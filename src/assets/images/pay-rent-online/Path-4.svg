@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1360px" height="1816px" viewBox="0 0 1360 1816" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Path 3 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.4217317%" y1="-11.8269691%" x2="39.9647051%" y2="38.0739579%" id="linearGradient-1">
+            <stop stop-color="#93959C" stop-opacity="0.351753715" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.684384301">
+        <g id="Rentorr-Landing---Tenant-2" transform="translate(0.000000, -462.000000)" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(-1578.000000, -1387.000000)">
+                <polygon id="Path-3-Copy-5" transform="translate(1928.000000, 2757.000000) scale(-1, -1) translate(-1928.000000, -2757.000000) " points="918 2839.82391 918 1849 1577.46238 2303.91915 2238.74473 2965.46554 2938 3665 918 3665"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,212 @@
+.maintenance-requests {
+  .top-pages {
+    margin-top: 65px;
+  }
+
+  .title-img {
+    margin-top: 90px;
+    padding: 100px 0;
+    background-color: #f3f3f3;
+
+    @media (max-width: 575px) {
+      padding: 60px 0;
+    }
+  }
+
+  .title-img__text {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    max-width: 483px;
+    margin-right: 50px;
+
+    @media (max-width: 1070px) {
+      margin-right: 0;
+    }
+
+    @media (max-width: 1070px) {
+      max-width: 100%;
+    }
+  }
+
+  .title-img__img {
+    position: relative;
+    display: block !important;
+
+    @media (max-width: 991px) {
+      display: -webkit-box !important;
+      display: -ms-flexbox !important;
+      display: flex !important;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+
+    img {
+      max-width: 600px;
+      margin-right: -31px;
+
+      @media (max-width: 1070px) {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        margin-right: 0;
+        margin-bottom: 25px;
+      }
+
+      @media (max-width: 991px) {
+        max-width: 600px;
+        width: 100%;
+        height: auto;
+      }
+
+      &:before {
+        position: absolute;
+        content: url(../assets/images/land-four/dots-double.svg);
+        right: 95px;
+        top: -63px;
+        z-index: 1;
+
+        @media (max-width: 991px) {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .ready {
+    margin-top: 100px;
+  }
+
+  .title-section {
+    margin-top: 80px;
+  }
+
+  .skill-box {
+    .start {
+      margin-top: -60px;
+
+      .skill-box__item {
+        position: relative;
+
+        &:before {
+          position: absolute;
+          z-index: -1;
+          content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjIzN3B4IiBoZWlnaHQ9IjE4NTVweCIgdmlld0JveD0iMCAwIDIyMzcgMTg1NSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNTkgKDg2MTI3KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5QYXRoIDM8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgeDE9Ii0xNy40MjE3MzE3JSIgeTE9Ii0yLjYwMjMxNjEzJSIgeDI9IjM5Ljk2NDcwNTElIiB5Mj0iMzkuODUzMzM2NyUiIGlkPSJsaW5lYXJHcmFkaWVudC0xIj4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzkzOTU5QyIgc3RvcC1vcGFjaXR5PSIwLjM1MTc1MzcxNSIgb2Zmc2V0PSIwJSI+PC9zdG9wPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjRDdEQkU2IiBzdG9wLW9wYWNpdHk9IjAuMDA1OTI3NjY2MDgiIG9mZnNldD0iMTAwJSI+PC9zdG9wPgogICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zNDAuMDAwMDAwLCAtNzkuMDAwMDAwKSIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0xKSI+CiAgICAgICAgICAgIDxwb2x5Z29uIGlkPSJQYXRoLTMiIHBvaW50cz0iNDc5IDg3Ni44OTg5NTYgODIwLjMxMTE5MyA3OSAxMjE2LjQ2MjM4IDM1MSAyNTc3IDE3MTIuMzIyNzMgNDc5IDE5MzQgMzQwIDE2NTcuMDAzMDcgMzQwIDEzMjAuNTI2ODYiPjwvcG9seWdvbj4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
+          top: -134px;
+          left: -700px;
+          height: 1000px;
+          overflow: hidden;
+        }
+      }
+
+      .col-lg-6 {
+        @media (max-width: 991px) {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+        }
+
+        @media (max-width: 575px) {
+          display: block;
+        }
+
+        &:before {
+          content: none;
+        }
+
+        &:after {
+          content: none;
+        }
+
+        img {
+          margin-left: -50px;
+          margin-bottom: -50px;
+
+          @media (max-width: 1170px) {
+            width: 100%;
+          }
+
+          @media (max-width: 991px) {
+            max-width: 600px;
+            height: auto;
+            margin-bottom: 25px;
+            margin-top: 25px;
+          }
+
+          @media (max-width: 575px) {
+            margin: 0 !important;
+            width: 100%;
+            height: auto;
+          }
+        }
+      }
+    }
+
+    .end {
+      margin-top: -40px;
+
+      .img {
+        position: relative;
+
+        @media (max-width: 991px) {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+        }
+
+        @media (max-width: 575px) {
+          display: block;
+          margin: 0 !important;
+          width: 100%;
+          height: auto;
+        }
+
+        &:before {
+          position: absolute;
+          z-index: -1;
+          content: url(../assets/images/maintenance-requests/dots-one.svg);
+          top: 163px;
+          left: -23px;
+
+          @media (max-width: 992px) {
+            display: none;
+          }
+        }
+
+        img {
+          margin: 0;
+
+          @media (max-width: 1170px) {
+            width: 100%;
+            margin-left: 30px;
+          }
+
+          @media (max-width: 991px) {
+            max-width: 600px;
+            width: 100%;
+            height: auto;
+            margin-left: 0;
+          }
+        }
+      }
+    }
+
+    .center {
+      margin-top: -73px;
+    }
+  }
+}

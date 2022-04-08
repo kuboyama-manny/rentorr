@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>0E7DCF69-8714-4517-846C-438B88E6B939</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-9.9%" y="-50.0%" width="119.9%" height="200.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.156862745   0 0 0 0 0.188235294  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="01-13-Tenant-profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Option-Tenant-Profile-02" transform="translate(-1132.000000, -154.000000)" fill="#3C404E" fill-rule="nonzero">
+            <g id="Actions" transform="translate(1115.000000, 132.000000)">
+                <g id="List-with-icon" filter="url(#filter-1)" transform="translate(24.000000, 21.000000)">
+                    <g id="Icons/Verify" transform="translate(0.000000, 8.000000)">
+                        <path d="M3.54629632,8.65072206 L3.54629632,10.6637168 L5.57147802,10.6637168 L11.5444139,4.72672429 L9.51923222,2.71372953 L3.54629632,8.65072206 Z M13.1105544,3.17000834 L12.1222658,4.15234978 L10.0970841,2.13935503 L11.0853727,1.15701359 C11.2959916,0.947662136 11.6362222,0.947662136 11.8468411,1.15701359 L13.1105544,2.41312232 C13.3211733,2.62247377 13.3211733,2.96065689 13.1105544,3.17000834 Z M1,12.3893805 L15,12.3893805 L15,14 L1,14 L1,12.3893805 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

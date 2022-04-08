@@ -1,0 +1,14 @@
+.button--blue {
+  &.normal {
+    width: 100% !important;
+    max-width: 224px;
+    height: 36px;
+    background-color: #1a5dc6;
+  }
+
+  &.disabled {
+    &:hover {
+      cursor: not-allowed;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>62AAD162-DFEB-4F79-B7C9-C5D30E40CC3E</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="01-03-Browse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-03-01-Browsing-Half-Map-Half-List" transform="translate(-391.000000, -615.000000)">
+            <g id="Left" transform="translate(0.000000, 120.000000)">
+                <g id="Cards/Listing-Details" transform="translate(40.000000, 346.000000)">
+                    <g id="Listing-details" transform="translate(224.000000, 144.000000)">
+                        <g id="Icons/Square_default" transform="translate(124.000000, 0.000000)">
+                            <g id="Group-13" transform="translate(3.000000, 5.000000)">
+                                <rect id="Rectangle" stroke="#666B7C" x="4.5" y="4" width="13" height="7" rx="1"></rect>
+                                <path d="M4.5,7 L4.5,6.5 L5,6.5 L5,8.5 L4.5,8.5 L4.5,8 L-2.5,8 L-2.5,8.5 L-3,8.5 L-3,6.5 L-2.5,6.5 L-2.5,7 L4.5,7 Z" id="Combined-Shape" fill="#E0E1E5" transform="translate(1.000000, 7.500000) rotate(90.000000) translate(-1.000000, -7.500000) "></path>
+                                <path d="M17.5,0.5 L17.5,0 L18,0 L18,2 L17.5,2 L17.5,1.5 L4.5,1.5 L4.5,2 L4,2 L4,0 L4.5,0 L4.5,0.5 L17.5,0.5 Z" id="Combined-Shape" fill="#E0E1E5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('./common/fonts/SourceSansPro-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro Bold';
+  src: url('./common/fonts/SourceSansPro-SemiBold.ttf');
+}
+
+$font-family-roboto: "Roboto", sans-serif;
+$font-family-overpass: "Overpass", sans-serif;
+$overpass: "Overpass", sans-serif;
+$roboto: "Roboto", sans-serif;
+$source-sans: 'Source Sans Pro';
+$sourceSansPro: "Source Sans Pro", sans-serif;
+$source-sans-bold: 'Source Sans Pro Bold';
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: $font-family-overpass;
+}
+
+body, p {
+  font-family: $font-family-roboto;
+}

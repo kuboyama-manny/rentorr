@@ -1,0 +1,47 @@
+.menu {
+  //margin-right: -24px;
+
+  .menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 24px;
+    color: #282830;
+    font-family: $roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    cursor: pointer;
+
+    &.divider {
+      height: 1px;
+      width: 100%;
+      padding: 0;
+      opacity: 0.5;
+      margin-top: 12px;
+      margin-bottom: 12px;
+      cursor: none;
+      background-color: #E1DFE6
+    }
+    &:hover {
+      background: #dfebff;
+    }
+
+    .menu-text {
+      display: flex;
+      align-items: center;
+
+      .icon {
+        margin-right: 16px;
+      }
+      .text {
+        white-space: nowrap;
+        margin: 10px 0;
+      }
+    }
+
+    .selected {
+      margin-left: 12px;
+    }
+  }
+}

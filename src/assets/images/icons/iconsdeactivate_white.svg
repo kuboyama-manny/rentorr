@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Icons/Deactivate_white">
+    <path d="M13.6422 1.73444L12.5611 0.427778C12.3511 0.163333 12.0322 0 11.6667 0L2.33333 0C1.96778 0 1.64889 0.163333 1.43111 0.427778L0.357778 1.73444C0.132222 1.99889 0 2.34889 0 2.72222L0 12.4444C0 13.3 0.7 14 1.55556 14L12.4444 14C13.3 14 14 13.3 14 12.4444L14 2.72222C14 2.34889 13.8678 1.99889 13.6422 1.73444ZM2.27889 0.777778L1.64889 1.55556L12.3433 1.55556L11.6122 0.777778L2.27889 0.777778ZM7 11.2778L2.72222 7L5.44444 7L5.44444 5.44444L8.55556 5.44444L8.55556 7L11.2778 7L7 11.2778Z" transform="translate(1 1)" id="inactivate_icon" fill="#FFFFFF" fill-opacity="0.3" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

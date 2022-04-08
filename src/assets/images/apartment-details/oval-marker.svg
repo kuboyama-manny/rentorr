@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="388px" height="388px" viewBox="0 0 388 388" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>1EEF80F0-4D84-42BF-B1EF-6ECB18F79868</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#006DEA" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="01-03-Apartment-Details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.0737862693">
+        <g id="01-03-02-01-Listing-Page" transform="translate(-252.000000, -1757.000000)" fill="url(#radialGradient-1)">
+            <g id="Map" transform="translate(-22.000000, 1686.000000)">
+                <g id="Area" transform="translate(274.000000, 71.000000)">
+                    <g id="Shape_oval">
+                        <circle id="Oval" cx="194" cy="194" r="194"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

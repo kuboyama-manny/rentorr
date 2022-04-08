@@ -1,0 +1,108 @@
+.setting-layout {
+  .nav-settings {
+    list-style: none;
+    padding-inline-start: 0;
+    margin-top: 114px;
+    flex-direction: column;
+    li.nav-item {
+      height: 15px;
+      position: relative;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      font-family: $overpass;
+      font-size: 12px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+      color: #757988;
+      a {
+        color: inherit;
+      }
+      &.active {
+        margin-bottom: 36px;
+        font-family: $overpass;
+        font-size: 12px;
+        font-weight: 900;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: 0.4px;
+        color: #222634;
+        &:before {
+          width: 44px;
+          height: 24px;
+          opacity: 0.2;
+          background-color: #b7bbcf;
+          position: absolute;
+          left: -20px;
+          top: -4px;
+          content: " ";
+        }
+      }
+      &:hover {
+        color: #222634;
+      }
+      &:active {
+        &:before {
+          width: 44px;
+          height: 24px;
+          opacity: 0.2;
+          background-color: #b7bbcf;
+          position: absolute;
+          left: -20px;
+          top: -4px;
+          content: " ";
+        }
+      }
+      &:disabled {
+        color: #222634;
+        opacity: 30%;
+      }
+    }
+    @media all and (max-width: 768px) {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 16px;
+      li.nav-item {
+        margin: 10px;
+        white-space: nowrap;
+        &.active {
+          margin: 10px;
+        }
+      }
+    }
+  }
+  .page-title {
+    height: 32px;
+    font-family: $overpass;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    color: #222634;
+    margin-bottom: 36px;
+    @media all and (max-width: 768px) and (min-width: 567.1px) {
+      margin-bottom: 16px;
+    }
+    @media all and (max-width: 576px) {
+      margin-bottom: 16px;
+      text-align: center;
+    }
+
+  }
+  .setting-content {
+    padding-top: 44px;
+    padding-bottom: 80px;
+    @media all and (max-width: 768px) {
+      padding-top: 0;
+    }
+  }
+}
+

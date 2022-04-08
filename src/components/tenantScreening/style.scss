@@ -1,0 +1,107 @@
+.tenant-screening {
+  .top-pages {
+    margin-top: 65px;
+    margin-bottom: 160px;
+
+    @media (max-width: 991px) {
+      margin-bottom: 70px;
+    }
+
+    p {
+      max-width: 470px;
+    }
+  }
+
+  .title-img {
+    margin-bottom: 180px;
+
+    img {
+      max-width: 470px;
+    }
+  }
+
+  .title-img__text {
+    padding-top: 50px;
+  }
+
+  .img-desc {
+    margin-bottom: 250px;
+    padding-bottom: 43px;
+
+    @media (max-width: 991px) {
+      margin-bottom: 170px;
+      padding-bottom: 0;
+    }
+
+    &:before {
+      content: "";
+      background-color: #1c5fc6;
+      width: 115%;
+      position: absolute;
+      top: -91px;
+      left: -20px;
+      z-index: -1;
+      height: 180px;
+      -webkit-transform: rotate(4deg);
+      transform: rotate(4deg);
+    }
+
+    &:after {
+      content: "";
+      background-color: #1c5fc6;
+      width: 115%;
+      position: absolute;
+      bottom: -91px;
+      left: -20px;
+      z-index: -1;
+      height: 180px;
+      -webkit-transform: rotate(5deg);
+      transform: rotate(5deg);
+    }
+  }
+
+  .img-desc__logo {
+    margin-top: 15px;
+  }
+
+  .img-desc__images {
+    position: relative;
+
+    img {
+      position: relative;
+    }
+
+    &:before {
+      content: url(../assets/images/land-three/dots.svg);
+      position: absolute;
+      left: -12px;
+      top: -55px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  .feature__all {
+    position: relative;
+
+    &:after {
+      content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTM2MHB4IiBoZWlnaHQ9IjEwNjZweCIgdmlld0JveD0iMCAwIDEzNjAgMTA2NiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNTkgKDg2MTI3KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5QYXRoIDM8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgeDE9Ii0xNy40MjE3MzE3JSIgeTE9IjE3LjU1ODU2NTclIiB4Mj0iMzkuOTY0NzA1MSUiIHkyPSI0My43NDIyNDY4JSIgaWQ9ImxpbmVhckdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjOTM5NTlDIiBzdG9wLW9wYWNpdHk9IjAuMzUxNzUzNzE1IiBvZmZzZXQ9IjAlIj48L3N0b3A+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNEN0RCRTYiIHN0b3Atb3BhY2l0eT0iMC4wMDU5Mjc2NjYwOCIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJSZW50b3JyLUxhbmRpbmctLS1MYW5kbG9yZC0zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgLTI3NDUuMDAwMDAwKSIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0xKSI+CiAgICAgICAgICAgIDxnIGlkPSJCbG9jay0zIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMy4wMDAwMDAsIDI0NjcuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8cG9seWdvbiBpZD0iUGF0aC0zIiBwb2ludHM9Ii0yLjYzNDgzNjc5ZS0xMyA5NTIgODQ4LjY1NDk2OCAyNzggMTE5OS4xNTUzMiA1MTQuMTEzMDgxIDE2NDMuMTU5NTIgOTU3LjYxNzgyNSAxNzI2IDEwNDAuMzY1MTIgMi41MDA3MjQ0MyAxNDAyIj48L3BvbHlnb24+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
+      position: absolute;
+      right: 70px;
+      top: 250px;
+      z-index: -1;
+      height: 810px;
+      overflow: hidden;
+    }
+  }
+
+  .ready__info {
+    margin-top: 236px;
+
+    @media (max-width: 991px) {
+      margin-top: 150px;
+    }
+  }
+}

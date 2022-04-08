@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2652px" height="2236px" viewBox="0 0 2652 2236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Path 3 Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.3998672%" y1="-1.81181117%" x2="55.2135872%" y2="51.081294%" id="linearGradient-1">
+            <stop stop-color="#93959C" stop-opacity="0.351753715" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.684384301">
+        <g id="Artboard" transform="translate(-721.000000, -286.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Path-3-Copy-5" transform="translate(2047.000000, 1403.704496) scale(-1, -1) translate(-2047.000000, -1403.704496) " points="721 1696.23291 721 286 1388.02323 729.569182 2012.46238 1160.32814 2673.74473 1821.87453 3373 2521.40899 721 2521.40899"></polygon>
+        </g>
+    </g>
+</svg>

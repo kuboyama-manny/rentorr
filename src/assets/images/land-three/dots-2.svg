@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="62px" viewBox="0 0 72 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>dots</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0.5" width="71" height="75"></rect>
+        <linearGradient x1="-17.4217317%" y1="-11.8269691%" x2="39.9647051%" y2="38.0739579%" id="linearGradient-3">
+            <stop stop-color="#93959C" stop-opacity="0.351753715" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rentorr-Landing---Landlord-1" transform="translate(-1083.000000, -929.000000)">
+            <g id="Block-2" transform="translate(134.000000, 859.000000)">
+                <g id="dots" transform="translate(947.000000, 65.000000)">
+                    <g transform="translate(38.000000, 36.000000) scale(1, -1) rotate(90.000000) translate(-38.000000, -36.000000) translate(2.000000, -2.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Rectangle"></g>
+                        <g id="Group-16" mask="url(#mask-2)" fill="#B9BBC0">
+                            <g transform="translate(-135.000000, -58.000000)" id="Oval">
+                                <circle cx="141" cy="61" r="1"></circle>
+                                <circle cx="151" cy="61" r="1"></circle>
+                                <circle cx="161" cy="61" r="1"></circle>
+                                <circle cx="171" cy="61" r="1"></circle>
+                                <circle cx="181" cy="61" r="1"></circle>
+                                <circle cx="191" cy="61" r="1"></circle>
+                                <circle cx="201" cy="61" r="1"></circle>
+                                <circle cx="141" cy="71" r="1"></circle>
+                                <circle cx="151" cy="71" r="1"></circle>
+                                <circle cx="161" cy="71" r="1"></circle>
+                                <circle cx="171" cy="71" r="1"></circle>
+                                <circle cx="181" cy="71" r="1"></circle>
+                                <circle cx="191" cy="71" r="1"></circle>
+                                <circle cx="201" cy="71" r="1"></circle>
+                                <circle cx="141" cy="81" r="1"></circle>
+                                <circle cx="151" cy="81" r="1"></circle>
+                                <circle cx="161" cy="81" r="1"></circle>
+                                <circle cx="171" cy="81" r="1"></circle>
+                                <circle cx="181" cy="81" r="1"></circle>
+                                <circle cx="191" cy="81" r="1"></circle>
+                                <circle cx="201" cy="81" r="1"></circle>
+                                <circle cx="141" cy="91" r="1"></circle>
+                                <circle cx="151" cy="91" r="1"></circle>
+                                <circle cx="161" cy="91" r="1"></circle>
+                                <circle cx="171" cy="91" r="1"></circle>
+                                <circle cx="181" cy="91" r="1"></circle>
+                                <circle cx="191" cy="91" r="1"></circle>
+                                <circle cx="201" cy="91" r="1"></circle>
+                                <circle cx="141" cy="101" r="1"></circle>
+                                <circle cx="151" cy="101" r="1"></circle>
+                                <circle cx="161" cy="101" r="1"></circle>
+                                <circle cx="171" cy="101" r="1"></circle>
+                                <circle cx="181" cy="101" r="1"></circle>
+                                <circle cx="191" cy="101" r="1"></circle>
+                                <circle cx="201" cy="101" r="1"></circle>
+                                <circle cx="141" cy="111" r="1"></circle>
+                                <circle cx="151" cy="111" r="1"></circle>
+                                <circle cx="161" cy="111" r="1"></circle>
+                                <circle cx="171" cy="111" r="1"></circle>
+                                <circle cx="181" cy="111" r="1"></circle>
+                                <circle cx="191" cy="111" r="1"></circle>
+                                <circle cx="201" cy="111" r="1"></circle>
+                                <circle cx="141" cy="121" r="1"></circle>
+                                <circle cx="151" cy="121" r="1"></circle>
+                                <circle cx="161" cy="121" r="1"></circle>
+                                <circle cx="171" cy="121" r="1"></circle>
+                                <circle cx="181" cy="121" r="1"></circle>
+                                <circle cx="191" cy="121" r="1"></circle>
+                                <circle cx="201" cy="121" r="1"></circle>
+                                <circle cx="141" cy="131" r="1"></circle>
+                                <circle cx="151" cy="131" r="1"></circle>
+                                <circle cx="161" cy="131" r="1"></circle>
+                                <circle cx="171" cy="131" r="1"></circle>
+                                <circle cx="181" cy="131" r="1"></circle>
+                                <circle cx="191" cy="131" r="1"></circle>
+                                <circle cx="201" cy="131" r="1"></circle>
+                                <circle cx="181" cy="61" r="1"></circle>
+                                <circle cx="191" cy="61" r="1"></circle>
+                                <circle cx="201" cy="61" r="1"></circle>
+                                <circle cx="181" cy="71" r="1"></circle>
+                                <circle cx="191" cy="71" r="1"></circle>
+                                <circle cx="201" cy="71" r="1"></circle>
+                                <circle cx="181" cy="81" r="1"></circle>
+                                <circle cx="191" cy="81" r="1"></circle>
+                                <circle cx="201" cy="81" r="1"></circle>
+                                <circle cx="181" cy="91" r="1"></circle>
+                                <circle cx="191" cy="91" r="1"></circle>
+                                <circle cx="201" cy="91" r="1"></circle>
+                                <circle cx="181" cy="101" r="1"></circle>
+                                <circle cx="191" cy="101" r="1"></circle>
+                                <circle cx="201" cy="101" r="1"></circle>
+                                <circle cx="181" cy="111" r="1"></circle>
+                                <circle cx="191" cy="111" r="1"></circle>
+                                <circle cx="201" cy="111" r="1"></circle>
+                                <circle cx="181" cy="121" r="1"></circle>
+                                <circle cx="191" cy="121" r="1"></circle>
+                                <circle cx="201" cy="121" r="1"></circle>
+                                <circle cx="181" cy="131" r="1"></circle>
+                                <circle cx="191" cy="131" r="1"></circle>
+                                <circle cx="201" cy="131" r="1"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Content" transform="translate(0.000000, 24.000000)"></g>
+            </g>
+            <g id="background" transform="translate(-1578.000000, -1387.000000)" fill="url(#linearGradient-3)" opacity="0.684384301">
+                <polygon id="Path-3-Copy-5" transform="translate(1928.000000, 2757.000000) scale(-1, -1) translate(-1928.000000, -2757.000000) " points="918 2839.82391 918 1849 1577.46238 2303.91915 2938 3665 918 3665"></polygon>
+                <polygon id="Path-3-Copy-2" transform="translate(1878.000000, 3113.000000) scale(1, -1) translate(-1878.000000, -3113.000000) " points="868 3195.82391 868 2205 1527.46238 2659.91915 2888 4021 868 4021"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

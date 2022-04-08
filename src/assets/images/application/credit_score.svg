@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="194px" height="123px" viewBox="0 0 194 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title> Chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.41467524,65.1147021 L21.5138234,34.8630548 C37.523738,11.3062261 58.8536981,-0.23546655 85.5037037,0.23797697 C112.153709,0.711420489 133.879212,6.00170376 150.68021,16.1088268 L181.612401,49.982163 L193.915433,78.8193723 L193.915433,122.796117 L159.517262,116.022964 L33.5351603,116.022964 L0,122.796117 L3.41467524,65.1147021 Z" id="path-1"></path>
+        <path d="M53.2396581,16.6892511 C53.2396581,16.6892511 82.581724,2.73513286 101.957569,1.11261674 C121.333415,-0.509899382 159.533283,7.78831716 159.533283,7.78831716 L193,59.7595918 L167.387167,75.7747086 L173.295618,133.36953 L0.0928457092,140.189709 C0.0928457092,140.189709 9.86910745,83.954509 18.9156751,54.5182201 C27.9622427,25.0819312 53.2396581,16.6892511 53.2396581,16.6892511 Z" id="path-3"></path>
+        <linearGradient x1="99.5165976%" y1="-28.6809376%" x2="5.54500854%" y2="84.1118421%" id="linearGradient-5">
+            <stop stop-color="#1A5DC6" offset="0%"></stop>
+            <stop stop-color="#0D16D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.5165976%" y1="-28.6809376%" x2="5.54500854%" y2="84.1118421%" id="linearGradient-6">
+            <stop stop-color="#92C3FB" offset="0%"></stop>
+            <stop stop-color="#0D16D5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-08" transform="translate(-432.000000, -485.000000)">
+            <g id="Credit-check" transform="translate(408.000000, 407.000000)">
+                <g id="-Chart" transform="translate(24.000000, 78.000000)">
+                    <g id="chart">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <ellipse id="external_dashes" stroke="#DEE5EF" stroke-width="7.2" mask="url(#mask-2)" cx="98.437037" cy="102.61007" rx="67.5481481" ry="68.4837209"></ellipse>
+                        <g id="colored" mask="url(#mask-2)">
+                            <g transform="translate(-14.807407, -6.971325)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <path d="M111.115415,185.297922 C67.6796038,185.297922 32.4963499,149.943348 32.4963499,106.366151 C32.4963499,62.788954 67.6796038,27.4343802 111.115415,27.4343802 C154.551226,27.4343802 189.73448,62.788954 189.73448,106.366151 C189.73448,149.943348 154.551226,185.297922 111.115415,185.297922 Z" id="color_dashes" stroke="url(#linearGradient-5)" stroke-width="28.8" fill="none" mask="url(#mask-4)"></path>
+                                <path d="M111.115415,174.497922 C73.6560544,174.497922 43.2963499,143.990385 43.2963499,106.366151 C43.2963499,68.741917 73.6560544,38.2343802 111.115415,38.2343802 C148.574775,38.2343802 178.93448,68.741917 178.93448,106.366151 C178.93448,143.990385 148.574775,174.497922 111.115415,174.497922 Z" id="color_dashes" stroke="url(#linearGradient-6)" stroke-width="7.2" fill="none" mask="url(#mask-4)"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Credit-score" transform="translate(69.000000, 56.000000)">
+                        <text font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#666B7C">
+                            <tspan x="0.112792969" y="9">Credit score</tspan>
+                        </text>
+                        <text id="720" font-family="Roboto-Black, Roboto" font-size="26" font-weight="700" letter-spacing="0.3" fill="#222634">
+                            <tspan x="3" y="37">720</tspan>
+                        </text>
+                        <text id="of-1000" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#666B7C">
+                            <tspan x="9.44433594" y="55">of 1000</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

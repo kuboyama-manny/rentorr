@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="515px" height="885px" viewBox="0 0 515 885" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Path 3 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.4217317%" y1="8.37053871%" x2="33.7182666%" y2="37.6042046%" id="linearGradient-1">
+            <stop stop-color="#93959C" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="archive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Find-a-home" transform="translate(0.000000, -704.000000)" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(-1209.000000, 306.000000)">
+                <polygon id="Path-3-Copy-3" transform="translate(869.000000, 878.500000) scale(1, -1) rotate(-133.000000) translate(-869.000000, -878.500000) " points="158 950.252408 640.243478 382.296724 661.882609 354 1580 970.464355 1563.51304 1403 178.608696 1403"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

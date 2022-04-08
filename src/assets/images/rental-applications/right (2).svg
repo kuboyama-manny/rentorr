@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1697px" height="1233px" viewBox="0 0 1697 1233" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Path 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.4217317%" y1="-7.15518175%" x2="41.8677861%" y2="38.1509039%" id="linearGradient-1">
+            <stop stop-color="#93959C" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-11.000000, -605.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Path-3" transform="translate(970.487584, 922.037868) scale(-1, 1) rotate(-40.000000) translate(-970.487584, -922.037868) " points="235.585515 651.370734 541.492255 286.805278 1705.38965 1124.73481 1688.9027 1557.27046 303.998348 1557.27046"></polygon>
+        </g>
+    </g>
+</svg>

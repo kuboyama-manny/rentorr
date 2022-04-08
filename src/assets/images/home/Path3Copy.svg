@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2400px" height="1902px" viewBox="0 0 2400 1902" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>third</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-19.5258677%" y1="-7.38425736%" x2="45.1838754%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#93959C" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2406.000000, -4965.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="right-third" transform="translate(2406.000000, 4965.000000)">
+                <polygon id="third" transform="translate(1199.549870, 951.000000) scale(-1, 1) translate(-1199.549870, -951.000000) " points="2.50111043e-12 1902 474.400298 1266.01669 1046.06789 557.61517 1487.09974 28 1508.09974 0 2399.09974 610 2383.09974 1902 1039.09974 1902"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

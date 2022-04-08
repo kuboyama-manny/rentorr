@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="523px" height="354px" viewBox="0 0 523 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Image_Fair-deals</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="282" height="148" rx="8"></rect>
+        <filter x="-17.6%" y="-33.4%" width="135.1%" height="166.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="282" height="148" rx="8"></rect>
+        <filter x="-17.6%" y="-33.4%" width="135.1%" height="166.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M11,0 L256,0 C262.075132,-1.11598369e-15 267,4.92486775 267,11 L267,277 C267,283.075132 262.075132,288 256,288 L11,288 C4.92486775,288 7.43989126e-16,283.075132 0,277 L0,11 C-2.52034597e-15,4.92486775 4.92486775,1.11598369e-15 11,0 Z" id="path-5"></path>
+        <filter x="-18.5%" y="-17.2%" width="137.1%" height="134.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.27808823,62.510114 L20.6532704,33.4685326 C36.0227885,10.853977 56.4995502,-0.226047888 82.0835556,0.228457891 C107.667561,0.68296367 128.524043,5.76163561 144.653002,15.4644737 L174.347905,47.9828765 L186.158816,75.6665974 L186.158816,117.884272 L153.136572,111.382046 L32.1937539,111.382046 L0,117.884272 L3.27808823,62.510114 Z" id="path-8"></path>
+        <path d="M51.1100718,15.381681 C51.1100718,15.381681 79.278455,1.98572754 97.8792667,0.428112067 C116.480078,-1.12950341 153.151952,6.83678447 153.151952,6.83678447 L185.28,56.7292081 L160.691681,72.1037203 L166.363794,127.394749 L0.0891318809,133.94212 C0.0891318809,133.94212 9.47434315,79.9563287 18.1590481,51.6974913 C26.843753,23.4386539 51.1100718,15.381681 51.1100718,15.381681 Z" id="path-10"></path>
+        <linearGradient x1="99.5165976%" y1="-28.6809376%" x2="5.54500854%" y2="84.1118421%" id="linearGradient-12">
+            <stop stop-color="#1A5DC6" offset="0%"></stop>
+            <stop stop-color="#0D16D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="99.5165976%" y1="-28.6809376%" x2="5.54500854%" y2="84.1118421%" id="linearGradient-13">
+            <stop stop-color="#92C3FB" offset="0%"></stop>
+            <stop stop-color="#0D16D5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Landlord" transform="translate(-101.000000, -847.000000)">
+            <g id="Block-2" transform="translate(0.000000, 680.000000)">
+                <g id="Image_Fair-deals" transform="translate(134.000000, 200.000000)">
+                    <g id="Card" transform="translate(0.000000, 81.000000)">
+                        <g id="Card-02" transform="translate(0.000000, 13.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                        <g id="Card-02" transform="translate(20.000000, 0.000000)">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <text id="IT-Worldwide" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" fill="#222634">
+                                <tspan x="32" y="46">IT Worldwide</tspan>
+                            </text>
+                            <text id="Human-Reource-Manage" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#666B7C">
+                                <tspan x="56" y="113">Human Reource Manager</tspan>
+                            </text>
+                            <g id="Icons/Pets" transform="translate(33.000000, 102.000000)" fill="#1A5DC6" fill-rule="nonzero">
+                                <path d="M4.9,0 L4.9,0.705882353 L1.4,0.705882353 C0.6265,0.705882353 0,1.33764706 0,2.11764706 L0,6.35294118 C0,7.13152941 0.6279,7.76470588 1.4,7.76470588 L12.6,7.76470588 C13.3721,7.76470588 14,7.13152941 14,6.35294118 L14,2.11764706 C14,1.33764706 13.3735,0.705882353 12.6,0.705882353 L9.1,0.705882353 L9.1,0 L4.9,0 Z M7,4.94117647 C7.3864,4.94117647 7.7,5.25741176 7.7,5.64705882 C7.7,6.03670588 7.3864,6.35294118 7,6.35294118 C6.6136,6.35294118 6.3,6.03670588 6.3,5.64705882 C6.3,5.25741176 6.6136,4.94117647 7,4.94117647 Z M0,8.78354753 L0,10.5882353 C0,11.3682353 0.6265,12 1.4,12 L12.6,12 C13.3735,12 14,11.3682353 14,10.5882353 L14,8.78354753 C13.5863,9.02637106 13.1124,9.17647059 12.6,9.17647059 L1.4,9.17647059 C0.8876,9.17647059 0.4137,9.02637106 0,8.78354753 Z" id="Shape"></path>
+                            </g>
+                            <text id="September-2018-–-Nov" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="16" fill="#9BA0B5">
+                                <tspan x="32" y="68">September 2018 – November 2018</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="My-credit-report" transform="translate(190.000000, 0.000000)">
+                        <g id="Credit-check">
+                            <g id="Group-24">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Rectangle">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                                <g id="Group-37" mask="url(#mask-6)">
+                                    <g transform="translate(40.000000, 84.000000)">
+                                        <text id="Potential-Credit-Ris" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal">
+                                            <tspan x="0" y="12" fill="#666B7C">Potential Credit Risk</tspan>
+                                        </text>
+                                        <text id="LOw" font-family="Roboto-Black, Roboto" font-size="12" font-weight="700" letter-spacing="0.6857144">
+                                            <tspan x="160" y="11" fill="#4CAF50">LOW</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <rect id="Rectangle" fill="#1A5DC6" mask="url(#mask-6)" x="0" y="0" width="267" height="52"></rect>
+                            </g>
+                            <text id="My-credit-report" font-family="Overpass-Bold, Overpass" font-size="14" font-weight="bold" line-spacing="24" fill="#FFFFFF">
+                                <tspan x="67.238" y="27">MY CREDIT REPORT</tspan>
+                            </text>
+                        </g>
+                        <g id="-Chart" transform="translate(40.000000, 125.000000)">
+                            <g id="chart">
+                                <mask id="mask-9" fill="white">
+                                    <use xlink:href="#path-8"></use>
+                                </mask>
+                                <use id="mask" fill="#FFFFFF" xlink:href="#path-8"></use>
+                                <ellipse id="external_dashes" stroke="#DEE5EF" stroke-width="6.912" mask="url(#mask-9)" cx="94.4995556" cy="98.5056672" rx="64.8462222" ry="65.7443721"></ellipse>
+                                <g id="colored" mask="url(#mask-9)">
+                                    <g transform="translate(-14.215111, -6.052472)">
+                                        <mask id="mask-11" fill="white">
+                                            <use xlink:href="#path-10"></use>
+                                        </mask>
+                                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                        <path d="M106.670798,177.246005 C64.9724196,177.246005 31.1964959,143.305614 31.1964959,101.471505 C31.1964959,59.6373958 64.9724196,25.697005 106.670798,25.697005 C148.369177,25.697005 182.145101,59.6373958 182.145101,101.471505 C182.145101,143.305614 148.369177,177.246005 106.670798,177.246005 Z" id="color_dashes" stroke="url(#linearGradient-12)" stroke-width="27.648" fill="none" mask="url(#mask-11)"></path>
+                                        <path d="M106.670798,166.878005 C70.7098122,166.878005 41.5644959,137.590769 41.5644959,101.471505 C41.5644959,65.3522404 70.7098122,36.065005 106.670798,36.065005 C142.631784,36.065005 171.777101,65.3522404 171.777101,101.471505 C171.777101,137.590769 142.631784,166.878005 106.670798,166.878005 Z" id="color_dashes" stroke="url(#linearGradient-13)" stroke-width="6.912" fill="none" mask="url(#mask-11)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Credit-score" transform="translate(65.440000, 53.760000)">
+                                <text font-family="Roboto-Regular, Roboto" font-size="9.6" font-weight="normal" fill="#9BA0B5">
+                                    <tspan x="0.90828125" y="9">Credit score</tspan>
+                                </text>
+                                <text id="720" font-family="Roboto-Black, Roboto" font-size="24.96" font-weight="700" letter-spacing="0.288000011" fill="#222634">
+                                    <tspan x="3.52" y="35.48">720</tspan>
+                                </text>
+                                <text id="of-1000" font-family="Roboto-Regular, Roboto" font-size="9.6" font-weight="normal" fill="#9BA0B5">
+                                    <tspan x="9.7065625" y="53.16">of 1000</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

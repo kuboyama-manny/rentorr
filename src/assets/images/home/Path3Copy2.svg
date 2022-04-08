@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3969px" height="2777px" viewBox="0 0 3969 2777" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>four</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.9449875%" y1="23.6227842%" x2="76.4045192%" y2="64.3533784%" id="linearGradient-1">
+            <stop stop-color="#93959C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B1B4BD" stop-opacity="0.198549222" offset="64.3900433%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="35.4487135%" cy="34.766759%" fx="35.4487135%" fy="34.766759%" r="44.8751298%" gradientTransform="translate(0.354487,0.347668),scale(0.699826,1.000000),rotate(34.721103),translate(-0.354487,-0.347668)" id="radialGradient-2">
+            <stop stop-color="#B1B4BD" stop-opacity="0.198549222" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.684384301">
+        <g id="Artboard" transform="translate(-5291.000000, -7840.000000)" fill="url(#radialGradient-2)" fill-rule="nonzero">
+            <g id="right-four" transform="translate(5291.000000, 7840.000000)">
+                <g id="Page-1">
+                    <g id="Artboard">
+                        <polygon id="four" transform="translate(1984.064762, 1388.500000) scale(-1, 1) translate(-1984.064762, -1388.500000) " points="1.36424205e-12 1951.82391 1.36424205e-12 0 3968.12952 2777 1.36424205e-12 2777"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

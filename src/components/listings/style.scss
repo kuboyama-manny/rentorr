@@ -1,0 +1,45 @@
+
+.empty-listing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .no-listings-img__wrapper {
+    margin-top: 56px;
+  }
+
+  .title {
+    margin-top: 19px;
+    font-size: 28px;
+    color: #222634;
+    font-family: $overpass;
+    font-weight: bold;
+    line-height: 32px;
+    text-align: center;
+  }
+
+  .description {
+    margin-top: 22px;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: $roboto;
+    color: #222634;
+    text-align: center;
+  }
+
+  .btn {
+    &.create {
+      margin-top: 29px;
+      margin-bottom: 140px;
+      background-color: #1A5DC6;
+      color: #FFFFFF;
+      font-family: $overpass;
+      font-size: 12px;
+      letter-spacing: 0.4px;
+      line-height: 16px;
+      font-weight: 800;
+      border-radius: 0;
+      text-align: center;
+    }
+  }
+}

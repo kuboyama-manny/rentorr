@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="32" height="32" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Icons/32/Docs" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <g id="Group-10" transform="translate(4 0)">
+      <path d="M2.82253 4.7242e-15C8.86673 4.35647e-15 12.7807 2.92576e-15 17.5575 2.92576e-15C17.5575 2.92576e-15 24 6.57949 24 6.57949L24 29.1775C24 30.7363 22.7363 32 21.1775 32L2.82253 32C1.26369 32 9.78704e-15 30.7363 9.78704e-15 29.1775L9.78704e-15 2.82253C9.78704e-15 1.26369 1.26369 4.81904e-15 2.82253 4.7242e-15Z" id="Rectangle-4" fill="#1A5DC6" stroke="none" />
+      <path d="M6.46154 6.58824L2.82253 6.58824C1.26369 6.58824 -1.58663e-14 5.32455 -1.25533e-14 3.76571C-7.9457e-15 1.59768 1.20506e-15 1.05637 1.20506e-15 0C1.20506e-15 0 6.46154 6.58824 6.46154 6.58824Z" transform="translate(17.53846 0)" id="Rectangle-4" fill="#AAC6E9" stroke="none" />
+      <path d="M0.187235 0L10.8897 0C10.9931 0 11.0769 0.0838281 11.0769 0.187235L11.0769 0.753941C11.0769 0.857348 10.9931 0.941176 10.8897 0.941176L0.187235 0.941176C0.0838281 0.941176 0 0.857348 0 0.753941L0 0.187235C0 0.0838281 0.0838281 0 0.187235 0Z" transform="translate(6.461538 13.17647)" id="Rectangle-5" fill="#FFF8FA" stroke="none" />
+      <path d="M0.187235 0L10.8897 0C10.9931 0 11.0769 0.0838281 11.0769 0.187235L11.0769 0.753942C11.0769 0.857349 10.9931 0.941177 10.8897 0.941177L0.187235 0.941177C0.0838281 0.941177 0 0.857349 0 0.753942L0 0.187235C0 0.0838281 0.0838281 0 0.187235 0Z" transform="translate(6.461538 16)" id="Rectangle-5" fill="#FFF8FA" stroke="none" />
+      <path d="M0.187235 0L7.19738 0C7.30079 0 7.38461 0.0838281 7.38461 0.187235L7.38461 0.753942C7.38461 0.857349 7.30079 0.941177 7.19738 0.941177L0.187235 0.941177C0.0838281 0.941177 0 0.857349 0 0.753942L0 0.187235C0 0.0838281 0.0838281 0 0.187235 0Z" transform="translate(6.461538 18.82353)" id="Rectangle-5" fill="#FFF8FA" stroke="none" />
+    </g>
+  </g>
+</svg>

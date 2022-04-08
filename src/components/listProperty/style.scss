@@ -1,0 +1,167 @@
+.list-property {
+  .circle {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .circle__position {
+    width: 100%;
+    height: auto;
+    max-width: 850px;
+    max-height: 575px;
+
+    img {
+      width: 100%;
+      -webkit-animation: move-img 3s infinite ease-in-out;
+      animation: move-img 3s infinite ease-in-out;
+
+      @media (max-width: 991px) {
+        margin-top: 30px;
+      }
+    }
+  }
+
+  .top-pages {
+    margin-top: 56px;
+  }
+
+  .paragraf {
+    margin-top: 225px;
+    position: relative;
+
+    @media (max-width: 991px) {
+      margin-top: 100px;
+    }
+
+    p {
+      margin-top: 15px;
+      position: relative;
+
+      &:before {
+        position: absolute;
+        content: url(../assets/images/land-one/dots1.svg);
+        left: 0;
+        top: -320px;
+        right: auto;
+
+        @media (max-width: 991px) {
+          display: none;
+        }
+      }
+    }
+
+    &:after {
+      content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTM2MHB4IiBoZWlnaHQ9IjEwMzhweCIgdmlld0JveD0iMCAwIDEzNjAgMTAzOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNTggKDg0NjYzKSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5QYXRoIDM8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz4KICAgICAgICA8bGluZWFyR3JhZGllbnQgeDE9Ii0xNy40MjE3MzE3JSIgeTE9IjYuNzIwMTcwNDclIiB4Mj0iMzMuNzE4MjY2NiUiIHkyPSIzNy4xMTI3ODI4JSIgaWQ9ImxpbmVhckdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjOTM5NTlDIiBvZmZzZXQ9IjAlIj48L3N0b3A+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiNEN0RCRTYiIHN0b3Atb3BhY2l0eT0iMC4wMDU5Mjc2NjYwOCIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+CiAgICAgICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJSZW50b3JyLUxhbmRpbmctLS1MYW5kbG9yZC0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwgLTYzNC4wMDAwMDApIiBmaWxsPSJ1cmwoI2xpbmVhckdyYWRpZW50LTEpIj4KICAgICAgICAgICAgPGcgaWQ9ImJnIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjYwLjAwMDAwMCwgNjM0LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBvbHlnb24gaWQ9IlBhdGgtMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTM1MC4wMDAwMDAsIDUxOS4wMDAwMDApIHNjYWxlKC0xLCAxKSB0cmFuc2xhdGUoLTEzNTAuMDAwMDAwLCAtNTE5LjAwMDAwMCkgIiBwb2ludHM9IjY2MCA1OTAgMTEyOCAyOCAxMTQ5IDMuMjYwMjg5MTdlLTEzIDIwNDAgNjEwIDIwMjQgMTAzOCA2ODAgMTAzOCI+PC9wb2x5Z29uPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=);
+      position: absolute;
+      right: -30px;
+      bottom: auto;
+      top: -300px;
+      z-index: -1;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+
+  .apply {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 230px 0 260px;
+
+    @media (max-width: 991px) {
+      margin: 140px 0 160px;
+    }
+
+    .row {
+      -webkit-box-orient: horizontal !important;
+      -webkit-box-direction: normal !important;
+      -ms-flex-direction: row !important;
+      flex-direction: row !important;
+    }
+
+    img {
+      margin-left: -150px;
+    }
+
+    a {
+      display: none;
+    }
+
+    .col-lg-6 {
+      img {
+        max-width: 665px;
+      }
+    }
+  }
+
+  .apply__dots-position {
+    &:after {
+      content: none;
+    }
+  }
+
+  .feature {
+    margin-bottom: 400px;
+
+    @media (max-width: 991px) {
+      margin-bottom: 150px;
+    }
+
+    .container {
+      position: relative;
+
+      &:before {
+        position: absolute;
+        content: url(../assets/images/land/dots2.svg);
+        left: auto;
+        top: 375px;
+        right: 225px;
+
+        @media (max-width: 991px) {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .ready {
+    @media (max-width: 575px) {
+      padding: 0;
+    }
+
+    a {
+      @media (max-width: 575px) {
+        margin-bottom: 80px;
+      }
+    }
+  }
+
+  .apply__text-box-position {
+    &:after {
+      content: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMzMwMHB4IiBoZWlnaHQ9IjI3NTdweCIgdmlld0JveD0iMCAwIDMzMDAgMjc1NyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNTkgKDg2MTI3KSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5QYXRoLTMtQ29weTwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPgogICAgICAgIDxsaW5lYXJHcmFkaWVudCB4MT0iLTE3LjQyMTczMTclIiB5MT0iLTMuMzkwMzc0MjQlIiB4Mj0iMzkuOTY0NzA1MSUiIHkyPSIzOS43MDEzMjUxJSIgaWQ9ImxpbmVhckdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjOTM5NTlDIiBzdG9wLW9wYWNpdHk9IjAuMzUxNzUzNzE1IiBvZmZzZXQ9IjE3JSI+PC9zdG9wPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjRDdEQkU2IiBzdG9wLW9wYWNpdHk9IjAuMDA1OTI3NjY2MDgiIG9mZnNldD0iMTAwJSI+PC9zdG9wPgogICAgICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICAgICAgPGxpbmVhckdyYWRpZW50IHgxPSIxMC4wNDE5NTUzJSIgeTE9IjEyLjc0NDE4OSUiIHgyPSI1Ni42NDA3MzI3JSIgeTI9IjUxLjM4MzM5OTUlIiBpZD0ibGluZWFyR3JhZGllbnQtMiI+CiAgICAgICAgICAgIDxzdG9wIHN0b3AtY29sb3I9IiM5Mzk1OUMiIHN0b3Atb3BhY2l0eT0iMC4zNTE3NTM3MTUiIG9mZnNldD0iMCUiPjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iI0Q3REJFNiIgc3RvcC1vcGFjaXR5PSIwLjAwNTkyNzY2NjA4IiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD4KICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgb3BhY2l0eT0iMC42ODQzODQzMDEiPgogICAgICAgIDxnIGlkPSJBcnRib2FyZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE0My4wMDAwMDAsIC03NTMuMDAwMDAwKSIgZmlsbD0idXJsKCNsaW5lYXJHcmFkaWVudC0yKSIgZmlsbC1ydWxlPSJub256ZXJvIj4KICAgICAgICAgICAgPGcgaWQ9ImZpcnN0LXJpZ2h0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNDMuMDAwMDAwLCA3NTMuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iUGFnZS0xIj4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iQXJ0Ym9hcmQiPgogICAgICAgICAgICAgICAgICAgICAgICA8cG9seWdvbiBpZD0iUGF0aC0zLUNvcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2NTAuMDAwMDAwLCAxMzc4LjQ1OTA2MCkgc2NhbGUoLTEsIDEpIHRyYW5zbGF0ZSgtMTY1MC4wMDAwMDAsIC0xMzc4LjQ1OTA2MCkgIiBwb2ludHM9IjEuOTg1Mjg2OTNlLTExIDE5MzEuNzQyMDMgMS43NTg1OTMyN2UtMTEgLTkuMDk0OTQ3MDJlLTEzIDE5MzkuNDYyMzggMTM5NS44MzcyNyAzMzAwIDI3NTYuOTE4MTIgMS45ODUyODY5M2UtMTEgMjc1Ni45MTgxMiI+PC9wb2x5Z29uPgogICAgICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+);
+      position: absolute;
+      right: -1180px;
+      bottom: auto;
+      top: -950px;
+      z-index: 0;
+    }
+
+    &:before {
+      position: absolute;
+      content: url(../assets/images/land-one/dots2.svg);
+      left: auto;
+      top: -140px;
+      right: 85px;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+    }
+  }
+}

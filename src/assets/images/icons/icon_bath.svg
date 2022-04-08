@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>37D40AF7-24C3-4C1A-AF66-5226E8A46F4B</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="01-03-Browse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-03-01-Browsing-Half-Map-Half-List" transform="translate(-330.000000, -354.000000)" fill="#666B7C" fill-rule="nonzero">
+            <g id="Left" transform="translate(0.000000, 120.000000)">
+                <g id="Cards/Listing-Details" transform="translate(40.000000, 82.000000)">
+                    <g id="Listing-details" transform="translate(224.000000, 144.000000)">
+                        <g id="Icons/Bath_default" transform="translate(62.000000, 0.000000)">
+                            <path d="M18,8 L19.5,8 C19.7761423,8 20,8.2238575 20,8.5 C20,8.7761425 19.7761423,9 19.5,9 L19,9 L19,10.5 C19,12.4330625 17.7811368,14.0814425 16.0700215,14.7185325 L16.4850713,15.3787325 C16.5520455,15.64663 16.3891652,15.9180975 16.1212677,15.9850725 C15.8533702,16.052045 15.581903,15.889165 15.5149287,15.6212675 L15.1096117,15 L8.89038825,15 L8.48507125,15.6212675 C8.418097,15.889165 8.14662975,16.052045 7.87873225,15.9850725 C7.61083475,15.9180975 7.4479545,15.64663 7.51492875,15.3787325 L7.9299785,14.7185325 C6.21886325,14.0814425 5,12.4330625 5,10.5 L5,9 L4.5,9 C4.22385775,9 4,8.7761425 4,8.5 C4,8.2238575 4.22385775,8 4.5,8 L17,8 L18,8 Z M6,9 L6,10.5 C6,12.4329975 7.5670035,14 9.5,14 L14.5,14 C16.4329965,14 18,12.4329975 18,10.5 L18,9 L6,9 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

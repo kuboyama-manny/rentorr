@@ -1,0 +1,257 @@
+.rental-forms {
+  .top-pages {
+    margin-top: 65px;
+    margin-bottom: 200px;
+
+    @media (max-width: 575px) {
+      margin-bottom: 100px;
+    }
+  }
+
+  .top-pages__text {
+    max-width: 533px;
+
+    p {
+      max-width: 340px;
+    }
+  }
+
+  .paragraf {
+    position: relative;
+    z-index: 9;
+
+    p {
+      max-width: 468px;
+    }
+  }
+
+  .map {
+    margin-top: -105px;
+    margin-bottom: 200px;
+    position: relative;
+
+    @media (max-width: 991px) {
+      margin-top: 0;
+    }
+
+    img {
+      max-width: 765px;
+      -webkit-animation: move-img 3s infinite ease-in-out;
+      animation: move-img 3s infinite ease-in-out;
+
+      @media (max-width: 1160px) {
+        max-width: 700px;
+      }
+
+      @media (max-width: 767px) {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .col-lg-9 {
+      @media (max-width: 991px) {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+      }
+
+      @media (max-width: 767px) {
+        display: block;
+      }
+    }
+
+    &:before {
+      position: absolute;
+      content: url(../assets/images/land-four/dots-double.svg);
+      left: 200px;
+      bottom: 100px;
+      z-index: -1;
+
+      @media (max-width: 1230px) {
+        display: none;
+      }
+    }
+  }
+
+  .author {
+    background-color: #1c5fc6;
+    position: relative;
+    padding: 15px 0 29px;
+
+    &:before {
+      content: "";
+      background-color: #1c5fc6;
+      width: 115%;
+      position: absolute;
+      top: -91px;
+      left: -20px;
+      z-index: -1;
+      height: 180px;
+      -webkit-transform: rotate(4deg);
+      transform: rotate(4deg);
+    }
+
+    &:after {
+      content: "";
+      background-color: #1c5fc6;
+      width: 115%;
+      position: absolute;
+      bottom: -91px;
+      left: -20px;
+      z-index: -1;
+      height: 180px;
+      -webkit-transform: rotate(5deg);
+      transform: rotate(5deg);
+    }
+
+    .img {
+      padding-top: 10px;
+      position: relative;
+
+      @media (max-width: 991px) {
+        padding-top: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+      }
+
+      &:before {
+        content: url(../assets/images/land-three/dots.svg);
+        position: absolute;
+        right: -42px;
+        top: -26px;
+
+        @media (max-width: 1230px) {
+          display: none;
+        }
+      }
+
+      img {
+        width: 100%;
+        -webkit-animation: move-img 3s infinite ease-in-out;
+        animation: move-img 3s infinite ease-in-out;
+
+        @media (max-width: 991px) {
+          max-height: 500px;
+          width: auto;
+          margin: 20px 0 25px;
+        }
+
+        @media (max-width: 575px) {
+          max-height: 400px;
+          width: auto;
+        }
+
+        @media (max-width: 400px) {
+          width: 100%;
+          height: auto;
+          max-height: none;
+        }
+      }
+
+      h3 {
+        max-width: 531px;
+        color: #fff;
+        font-size: 42px;
+        letter-spacing: -0.44px;
+        line-height: 48px;
+        margin-bottom: 20px;
+        font-family: "Overpass", sans-serif;
+        font-weight: 800;
+
+        @media (min-width: 992px) {
+          display: none !important;
+        }
+
+        @media (max-width: 991px) {
+          width: 100%;
+          max-width: none;
+        }
+
+        @media (max-width: 767px) {
+          font-size: 28px;
+          letter-spacing: -0.29px;
+          line-height: 32px;
+        }
+      }
+    }
+  }
+
+  .author__block-position {
+    @media (max-width: 991px) {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: reverse;
+      -ms-flex-direction: column-reverse;
+      flex-direction: column-reverse;
+    }
+  }
+
+  .author__text-box {
+    h3 {
+      max-width: 531px;
+      color: #fff;
+      font-size: 42px;
+      letter-spacing: -0.44px;
+      line-height: 48px;
+      margin-bottom: 20px;
+      font-family: "Overpass", sans-serif;
+      font-weight: 800;
+
+      @media (max-width: 991px) {
+        display: none;
+      }
+
+      @media (max-width: 767px) {
+        font-size: 28px;
+        letter-spacing: -0.29px;
+        line-height: 32px;
+      }
+    }
+
+    p {
+      max-width: 400px;
+      color: #fff;
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 32px;
+
+      @media (max-width: 991px) {
+        max-width: 100%;
+      }
+
+      @media (max-width: 767px) {
+        font-size: 14px;
+        line-height: 24px;
+      }
+    }
+  }
+
+  .ready {
+    margin-top: 285px;
+
+    @media (max-width: 575px) {
+      margin-top: 180px;
+    }
+
+    a {
+      @media (max-width: 575px) {
+        margin-bottom: 80px;
+      }
+    }
+  }
+}

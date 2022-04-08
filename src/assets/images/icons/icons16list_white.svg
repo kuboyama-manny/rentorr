@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="16" height="16" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Icons/16/List_white" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M0.431605 7.06337L7.49497 0L13.9998 0L13.9998 6.50484L6.93645 13.5682C6.36097 14.1437 5.42813 14.1437 4.85266 13.5682L0.431605 9.14716C-0.143868 8.57168 -0.143868 7.63884 0.431605 7.06337ZM10.3156 2.57895C10.3156 3.18905 10.8108 3.68421 11.4209 3.68421C12.031 3.68421 12.5261 3.18905 12.5261 2.57895C12.5261 1.96884 12.031 1.47368 11.4209 1.47368C10.8108 1.47368 10.3156 1.96884 10.3156 2.57895Z" transform="translate(1 1)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,486 @@
+.property-details-page {
+    min-height: calc(100vh - 64px);
+    background: #f7f9fc;
+
+    .top {
+        display: flex;
+        justify-content: space-between;
+        padding: 32px 0 26px;
+
+        .page-title {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+
+            h3 {
+                color: #222634;
+                font-size: 28px;
+                font-weight: bold;
+                line-height: 32px;
+                margin: 0 8px 0 0;
+            }
+
+            &:hover {
+                i {
+                    opacity: .5;
+                }
+            }
+        }
+
+        .btns {
+            display: flex;
+
+            .action-btn {
+                height: 32px;
+                width: 120px !important;
+                margin-left: 24px;
+                border: none;
+
+                i {
+                    margin-left: 16px;
+                }
+            }
+
+            .list-btn {
+                height: 32px;
+                width: 146px;
+            }
+        }
+
+        .detail-menu {
+            .menu-text {
+                display: block;
+                font-family: $overpass;
+                margin: 7px 0;
+
+                .text {
+                    color: #222634;
+                    font-size: 13px;
+                    font-weight: 500;
+                    line-height: 14px;
+                    margin: 0;
+                }
+                .note {
+                    color: #9BA0B5;
+                    font-size: 11px;
+                    font-weight: normal;
+                    letter-spacing: 0.05px;
+                    line-height: 13px;
+                    margin-top: 3px;
+                }
+            }
+        }
+    }
+
+    .detail-content {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -8px;
+        font-family: $overpass;
+
+        .detail-box {
+            width: 33.33%;
+            padding: 8px;
+
+            @media screen and (max-width: 1024px) {
+                width: 50%;
+            }
+
+            .detail-box-content {
+                height: 304px;
+                display: flex;
+                flex-direction: column;
+                background-color: #FFFFFF;
+                box-shadow: 0 0 4px 0 rgba(183,184,199,0.16);
+                color: #222634;
+                padding: 32px 0 0 32px;
+
+                .name-actions {
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 30px;
+
+                    .detail-name {
+                        color: #3B3F4E;
+                        font-size: 13px;
+                        font-weight: 800;
+                        letter-spacing: 0.43px;
+                        line-height: 20px;
+                    }
+                    .detail-action {
+                        font-size: 12px;
+                        font-weight: 900;
+                        letter-spacing: 0.69px;
+                        line-height: 18px;
+                        color: #1A5DC6;
+                        cursor: pointer;
+                    }
+                }
+
+                .detail-info {
+                    flex: 1;
+
+                    &.empty {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+    
+                        .detail-img {
+                            width: 200px;
+                        }
+    
+                        .detail-text {
+                            font-size: 14px;
+                            font-weight: bold;
+                            line-height: 24px;
+                        }
+    
+                        .detail-note {
+                            color: #666B7C;
+                            font-size: 14px;
+                            line-height: 24px;
+                            text-align: center;
+    
+                            a {
+                                color: #1A5DC6;
+                                font-size: 14px;
+                                font-weight: 500;
+                                letter-spacing: 0.35px;
+                                line-height: 20px;
+
+                                &:hover {
+                                    text-decoration: underline !important;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.general {
+                .detail-info {
+
+                    .d-address {
+                        height: 40px;
+                        width: 300px;
+                        font-family: $roboto;
+                        font-size: 14px;
+                        letter-spacing: 0.06px;
+                        line-height: 20px;
+                        margin: 25px 0 70px;
+                    }
+                    .d-price {
+                        font-size: 14px;
+                        letter-spacing: 0.06px;
+                        line-height: 16px;
+                        margin-bottom: 22px;
+                        font-family: $roboto;
+                        span {
+                            font-family: $overpass;
+                            font-size: 24px;
+                            font-weight: 900;
+                            letter-spacing: -0.74px;
+                            line-height: 37px;
+                        }
+                    }
+                    .extra-info {
+                        display: flex;
+                        padding: 17px 0 23px;
+                        border-top: 1px solid #E7E9EF;
+                        .item {
+                            display: flex;
+                            align-items: center;
+                            margin-right: 16px;
+                            color: #666B7C;
+                            font-family: $roboto;
+                            font-size: 14px;
+                            line-height: 16px;
+                            .icon {
+                                width: 24px;
+                                height: 24px;
+                                margin-right: 6px;
+                                padding: 0 4px;
+                            }
+                            .fa.fa-wrench {
+                                color: #FF5722;
+                                margin-left: 8px;
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.payouts {
+                .detail-info {
+                    padding-right: 32px;
+
+                    .payout-list {
+                        margin-top: 28px;
+                        .payout-item {
+                            display: flex;
+                            justify-content: space-between;
+                            margin-bottom: 30px;
+
+                            .left {
+                                display: flex;
+                                align-self: baseline;
+                                align-items: center;
+                                .p-title {
+                                    font-family: $overpass;
+                                    font-size: 14px;
+                                    font-weight: bold;
+                                    line-height: 24px;
+                                }
+                                .p-status {
+                                    color: #FFFFFF;
+                                    font-family: $source-sans-bold;
+                                    font-size: 11px;
+                                    font-weight: 900;
+                                    letter-spacing: 0.05px;
+                                    line-height: 14px;
+                                    padding: 1px 4px;
+                                    margin-left: 8px;
+
+                                    &.due {
+                                        background-color: #9BA0B5;
+                                    }
+                                    &.paid {
+                                        background-color: #4CAF50;
+                                    }
+                                }
+                            }
+
+                            .right {
+                                text-align: right;
+                                .p-price {
+                                    font-family: $overpass;
+                                    font-size: 14px;
+                                    font-weight: bold;
+                                    line-height: 24px;
+                                }
+                                .p-deadline {
+                                    color: #9BA0B5;
+                                    font-family: $roboto;
+                                    font-size: 12px;
+                                    letter-spacing: 0.06px;
+                                    line-height: 14px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.maintenances {
+                .detail-info {
+                    .maintenance-list {
+                        margin-top: 28px;
+                        .maintenance-item {
+                            display: flex;
+                            margin-bottom: 28px;
+                            .m-icon {
+                                height: 40px;
+                                width: 40px;
+                                margin-right: 20px;
+                            }
+                            .m-title {
+                                font-size: 14px;
+                                letter-spacing: -0.1px;
+                                line-height: 20px;
+                            }
+                            .m-date {
+                                color: #9BA0B5;
+                                font-size: 12px;
+                                letter-spacing: 0.06px;
+                                line-height: 14px;
+                                margin-top: 4px;
+                                font-family: $roboto;
+                            }
+                            .m-status {
+                                align-self: baseline;
+                                font-family: $source-sans-bold;
+                                font-size: 11px;
+                                font-weight: 900;
+                                letter-spacing: 0.05px;
+                                line-height: 14px;
+                                margin-top: 3px;
+                                margin-left: 16px;
+                                padding-left: 18px;
+                                position: relative;
+                                &:before {
+                                    content: '';
+                                    position: absolute;
+                                    left: 0;
+                                    top: 2px;
+                                    height: 12px;
+                                    width: 12px;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                }
+                                &.open {
+                                    color: #FFA000;
+                                    &:before {
+                                        content: url('../assets/images/icons/Highlight-red.svg');
+                                    }
+                                }
+                                &.solved {
+                                    color: #4CAF50;
+                                    &:before {
+                                        content: url('../assets/images/icons/Highlight-green.svg');
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.tenant {
+                .detail-info {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    padding-bottom: 40px;
+
+                    .tenant-info {
+                        display: flex;
+                        margin-top: 28px;
+                        .t-img {
+                            box-sizing: border-box;
+                            height: 40px;
+                            width: 40px;
+                            border: 1px solid #E8E9EF;
+                            border-radius: 20px;
+                            background-color: #FFFFFF;
+                            margin-right: 16px;
+                            margin-bottom: 6px;
+
+                            img {
+                                width: 100%;
+                                height: 100%;
+                            }
+                        }
+                        .t-name {
+                            font-size: 14px;
+                            font-weight: bold;
+                            line-height: 20px;
+                        }
+                        .rating-score {
+                            display: flex;
+                            .rating {
+                                display: flex;
+                                .r-star {
+
+                                }
+                            }
+                            .c-score {
+                                font-family: $roboto;
+                                font-size: 10px;
+                                line-height: 16px;
+                                margin-left: 8px;
+                            }
+                        }
+                    }
+
+                    .lease-period {
+                        display: flex;
+                        align-items: center;
+                        .c-img {
+                            margin-right: 8.6px;
+                        }
+                        .l-date {
+                            color: #666B7C;
+                            font-family: $roboto;
+                            font-size: 13px;
+                            line-height: 15px;
+                        }
+                        .l-period {
+                            color: #9BA0B5;
+                            font-family: $roboto;
+                            font-size: 13px;
+                            line-height: 15px;
+                            margin-left: 7px;
+                        }
+                        i {
+                            font-size: 11px;
+                            color: #666B7C;
+                            margin: 0 12px;
+                        }
+                    }
+
+                    .contact-btn {
+                        height: 32px;
+                        width: 146px;
+                    }
+                }
+            }
+
+            &.activity {
+                .detail-info {
+                    .log-list {
+                        margin-top: 28px;
+
+                        .log-item {
+                            display: flex;
+                            margin-bottom: 20px;
+
+                            .log-icon {
+                                height: 40px;
+                                width: 40px;
+                                margin-right: 22px;
+                            }
+                            .log-title {
+                                font-family: $roboto;
+                                font-size: 14px;
+                                line-height: 16px;
+                                margin-bottom: 10px;
+                            }
+                            .log-time {
+                                color: #9BA0B5;
+                                font-family: $roboto;
+                                font-size: 12px;
+                                letter-spacing: 0.06px;
+                                line-height: 14px;
+                            }
+                        }
+                    }
+                }
+            }
+
+            &.documents {
+                .detail-info {
+                    .document-list {
+                        margin-top: 28px;
+
+                        .document-item {
+                            display: flex;
+                            align-items: center;
+                            margin-bottom: 24px;
+
+                            .d-icon {
+                                width: 24px;
+                                margin-right: 28px;
+                            }
+                            .d-title {
+                                color: #222634;
+                                font-family: $overpass;
+                                font-size: 14px;
+                                font-weight: bold;
+                                line-height: 24px;
+                            }
+                            .d-time {
+                                color: #9BA0B5;
+                                font-family: $roboto;
+                                font-size: 12px;
+                                letter-spacing: 0.06px;
+                                line-height: 14px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

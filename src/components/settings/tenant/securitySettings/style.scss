@@ -1,0 +1,179 @@
+.tenant-security-settings {
+  .form {
+    @media screen and (max-width: 576px) {
+      padding-bottom: 32px;
+    }
+  }
+  .link-text {
+    color: #1a5dc6;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline!important;
+    }
+    &:active {
+      color: #222634;
+      text-decoration: underline!important;
+    }
+  }
+  .section {
+    .section-title {
+      font-family: $overpass;
+      font-size: 14px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1;
+      letter-spacing: normal;
+      color: #222634;
+      margin-bottom: 8px;
+    }
+    .section-text {
+      font-family: $roboto;
+      font-size: 12px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.67;
+      letter-spacing: 0.3px;
+      color: #222634;
+      position: relative;
+      max-width: 315px;
+    }
+    .link-text {
+      font-family: $roboto;
+      font-size: 12px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.67;
+      letter-spacing: 0.3px;
+      color: #1a5dc6;
+      margin-left: 10px;
+    }
+  }
+
+  .visibility-section {
+    margin-top: 52px;
+    .MuiFormControl-root {
+      width: 200px;
+    }
+    .label {
+      font-size: 14px;
+      color: #666B7C;
+      &.MuiInputLabel-shrink {
+        transform: translate(0, 1.5px) scale(1);
+        font-size: 12px;
+        color: #9BA0B5;
+      }
+    }
+    .MuiSelect-select {
+      color: #222634;
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+      line-height: 20px;
+    }
+    .MuiInput-underline {
+      &:before {
+        border-bottom: 1px solid #E1DFE6;
+      }
+      &:after {
+        border-bottom: 1px solid #E1DFE6;
+      }
+    }
+    .visible-details {
+      margin-top: 25px;
+
+      .form-check {
+        display: flex;
+        align-items: center;
+        margin: 12px 0;
+        padding-left: 0;
+        cursor: pointer;
+        .form-check-label {
+          font-size: 14px;
+          font-weight: 500;
+          margin-left: 8px;
+          color: #443f56;
+          letter-spacing: .3px;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+  
+  .right-block {
+    width: 240px;
+    height: 148px;
+    background-color: #ffffff;
+    margin-bottom: 16px;
+    margin-left: auto;
+    padding: 19px 24px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    @media screen and (max-width: 576px) {
+      width: 100%;
+    }
+    .block-img {
+      width: 100%;
+    }
+    .title {
+      font-family: $overpass;
+      font-size: 14px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      color: #222634;
+      margin-bottom: 8px;
+    }
+    .text {
+      font-family: $roboto;
+      font-size: 12px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.6;
+      letter-spacing: normal;
+      color: #222634;
+    }
+  }
+  .btn-save {
+    width: 200px;
+    height: 32px;
+    margin-top: 23px;
+    background-color: #1a5dc6;
+    font-family: $overpass;
+    font-size: 12px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.4px;
+    text-align: center;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    border: none;
+    &:hover {
+      background-color: #477DD1;
+    }
+    &:active {
+      background-color: #144A9E;
+    }
+    &:disabled {
+      background-color: #8CAEE2;
+    }
+    @media screen and (min-width: 1024px) {
+      margin-top: 60px;
+    }
+    @media screen and (max-width: 576px) {
+      margin-top: 16px;
+      width: 100%;
+    }
+  }
+}

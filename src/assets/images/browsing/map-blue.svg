@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01-03-Browse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-03-03-07-Browsing-Filters_Rooms&amp;Area" transform="translate(-1295.000000, -82.000000)" fill="#1A5DC6" fill-rule="nonzero">
+            <g id="Filters" transform="translate(0.000000, 64.000000)">
+                <g id="Map_icon" transform="translate(1288.000000, 12.000000)">
+                    <g id="icons/map" transform="translate(7.000000, 6.000000)">
+                        <g id="icons8-map-(1)" transform="translate(0.000000, 0.500000)">
+                            <path d="M18.01475,0.1256 L12.9664167,2.0828 L9.75325,1.04435 C9.75325,1.04435 9.75325,1.04435 9.75325,1.0433 L6.84233333,0.10355 C6.59966667,0.0248 6.33533333,0.03215 6.097,0.12455 L0.680333333,2.22455 C0.26975,2.3852 0,2.77055 0,3.2 L0,17.9 C0,18.64235 0.7735,19.15055 1.48525,18.87545 L6.53358333,16.91825 L12.6544167,18.8954 L12.6576667,18.89645 C12.9003333,18.9752 13.1646667,18.96785 13.403,18.87545 L18.8196667,16.77545 C19.23025,16.61585 19.5,16.22945 19.5,15.8 L19.5,15.8 L19.5,8.01425 L19.5,1.10105 C19.5,0.3587 18.7265,-0.1495 18.01475,0.1256 Z M6.5,14.6933 L6.5,2.2319 L6.53358333,2.21825 L13,4.30775 L13,16.76915 L12.9664167,16.7828 L6.5,14.6933 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

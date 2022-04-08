@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="18px" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>wifi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01-03-Apartment-Details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="01-03-02-01-Listing-Page" transform="translate(-361.000000, -1015.000000)" stroke="#666B7C">
+            <g id="Features" transform="translate(240.000000, 936.000000)">
+                <g id="Wifi" transform="translate(96.000000, 52.000000)">
+                    <g id="Icons/wi-fi" transform="translate(26.000000, 28.000000)">
+                        <g id="noun_wi-fi_1047922">
+                            <g id="wifi">
+                                <g id="Group" stroke-width="1.71">
+                                    <path d="M20.5227273,4.68923077 C17.8237851,2.07523902 14.1607345,0.606374862 10.3409091,0.606374862 C6.52108369,0.606374862 2.85803309,2.07523902 0.159090909,4.68923077 L0.159090909,4.68923077" id="Path"></path>
+                                    <path d="M17.1309091,8 C15.3311472,6.25897349 12.8897755,5.28082474 10.3440909,5.28082474 C7.79840636,5.28082474 5.3570346,6.25897349 3.55727273,8 L3.55727273,8" id="Path"></path>
+                                    <path d="M6.94909091,11.2553846 L6.94909091,11.2553846 C8.82266647,9.44465213 11.8591517,9.44465213 13.7327273,11.2553846 L13.7327273,11.2553846" id="Path"></path>
+                                </g>
+                                <ellipse id="Oval" stroke-width="1.89" cx="10.3409091" cy="15.0769231" rx="1" ry="1"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

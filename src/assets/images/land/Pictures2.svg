@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="493px" height="505px" viewBox="0 0 493 505" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Pictures 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,33 L278,33 C284.075132,33 289,37.9248678 289,44 L289,371 C289,377.075132 284.075132,382 278,382 L11,382 C4.92486775,382 7.43989126e-16,377.075132 0,371 L0,44 C-7.43989126e-16,37.9248678 4.92486775,33 11,33 Z" id="path-1"></path>
+        <filter x="-17.1%" y="-14.2%" width="134.3%" height="128.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35,0 L296,0 C302.075132,-1.11598369e-15 307,4.92486775 307,11 L307,400 C307,406.075132 302.075132,411 296,411 L35,411 C28.9248678,411 24,406.075132 24,400 L24,11 C24,4.92486775 28.9248678,1.11598369e-15 35,0 Z" id="path-3"></path>
+        <filter x="-17.5%" y="-12.0%" width="135.0%" height="124.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35,0 L296,0 C302.075132,-1.11598369e-15 307,4.92486775 307,11 L307,400 C307,406.075132 302.075132,411 296,411 L35,411 C28.9248678,411 24,406.075132 24,400 L24,11 C24,4.92486775 28.9248678,1.11598369e-15 35,0 Z" id="path-5"></path>
+        <filter x="-17.5%" y="-12.0%" width="135.0%" height="124.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="-8.52651283e-14" y="0" width="291.2" height="182" rx="7.7"></rect>
+        <filter x="-11.8%" y="-19.0%" width="123.7%" height="137.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Landlord" transform="translate(-69.000000, -2540.000000)">
+            <g id="Block-3" transform="translate(-515.000000, 213.000000)">
+                <g id="Pictures-2" transform="translate(617.000000, 2360.000000)">
+                    <g id="Group-8">
+                        <g id="Card">
+                            <g id="Group-48">
+                                <g id="Base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="Base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                                <g id="Base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                            <g id="Group-47" transform="translate(51.000000, 33.000000)" fill="#222634" font-family="Overpass-Bold, Overpass" font-size="20.16" font-weight="bold" line-spacing="23.04">
+                                <text id="Payouts">
+                                    <tspan x="0" y="20">Payouts</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Monthly-rent-Copy" transform="translate(51.000000, 91.000000)">
+                            <text id="R11,960" font-family="Overpass-Bold, Overpass" font-size="20" font-weight="bold" fill="#222634">
+                                <tspan x="0" y="20">R11,960</tspan>
+                            </text>
+                            <text id="Monthly-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                <tspan x="1" y="42">Monthly Rent</tspan>
+                            </text>
+                            <text id="Until-Apr-1,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                <tspan x="115" y="42">Until Apr 1, 2019</tspan>
+                            </text>
+                            <g id="Tag" transform="translate(99.000000, 2.000000)">
+                                <rect id="Rectangle" fill="#FF5722" x="0" y="0" width="58" height="17"></rect>
+                                <text id="Overdue" font-family="SourceSansPro-Black, Source Sans Pro" font-size="11" font-weight="700" letter-spacing="0.05076923" fill="#FFFFFF">
+                                    <tspan x="5" y="12">OVERDUE</tspan>
+                                </text>
+                            </g>
+                            <rect id="Rectangle" fill="#E8E9EF" x="96" y="37" width="3" height="3"></rect>
+                        </g>
+                        <g id="Security-deposit-Copy" transform="translate(51.000000, 161.000000)">
+                            <text id="Security-Deposit" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                <tspan x="0" y="42">Security Deposit</tspan>
+                            </text>
+                            <text id="R11,960" font-family="Overpass-Bold, Overpass" font-size="20" font-weight="bold" fill="#222634">
+                                <tspan x="0" y="20">R11,960</tspan>
+                            </text>
+                            <g id="Tag" transform="translate(99.000000, 1.000000)">
+                                <rect id="Rectangle" fill="#4CAF50" x="0" y="0" width="34" height="17"></rect>
+                                <text id="PAID" font-family="SourceSansPro-Black, Source Sans Pro" font-size="11" font-weight="700" letter-spacing="0.05076923" fill="#FFFFFF">
+                                    <tspan x="5" y="12">PAID</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Card-Copy-2" transform="translate(146.000000, 267.000000)">
+                        <g id="Rectangle-Copy-5">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <text id="Until-Mar-1,-2019" font-family="Roboto-Regular, Roboto" font-size="8.4" font-weight="normal" letter-spacing="0.0387692269" fill="#9BA0B5">
+                            <tspan x="204.4" y="77.3">Until Mar 1, 2019</tspan>
+                        </text>
+                        <text id="Disabled" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#9BA0B5">
+                            <tspan x="230.104883" y="151.1">Disabled</tspan>
+                        </text>
+                        <text id="Auto-payment" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#222634">
+                            <tspan x="22.4" y="151.1">Auto payment</tspan>
+                        </text>
+                        <text id="Monthly-rent" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#222634">
+                            <tspan x="22.4" y="61.5">Monthly rent</tspan>
+                        </text>
+                        <text id="R11,960" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#222634">
+                            <tspan x="231.7" y="61.5">R11,960</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#9BA0B5" x="84" y="55.3" width="21.7" height="11.9"></rect>
+                        <text id="Due" font-family="SourceSansPro-Black, Source Sans Pro" font-size="7.7" font-weight="700" letter-spacing="0.0355384599" fill="#FFFFFF">
+                            <tspan x="87.5" y="64">DUE</tspan>
+                        </text>
+                        <text id="Payments" font-family="Overpass-ExtraBold, Overpass" font-size="9.1" font-weight="600" letter-spacing="0.303333315" fill="#484B5C">
+                            <tspan x="22.4" y="30.7">PAYMENTS</tspan>
+                        </text>
+                        <text id="View-all" font-family="Roboto-Black, Roboto" font-size="8.4" font-weight="700" letter-spacing="0.480000097" fill="#1A5DC6">
+                            <tspan x="227.5" y="31.1">VIEW ALL</tspan>
+                        </text>
+                        <text id="R11,960" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#222634">
+                            <tspan x="231.7" y="106.3">R11,960</tspan>
+                        </text>
+                        <text id="Security-Deposit" font-family="Roboto-Bold, Roboto" font-size="9.8" font-weight="bold" line-spacing="16.8" fill="#222634">
+                            <tspan x="22.4" y="106.3">Security Deposit</tspan>
+                        </text>
+                        <rect id="Rectangle" fill="#4CAF50" x="100.8" y="100.1" width="23.8" height="11.9"></rect>
+                        <text id="PAID" font-family="SourceSansPro-Black, Source Sans Pro" font-size="7.7" font-weight="700" letter-spacing="0.0355384599" fill="#FFFFFF">
+                            <tspan x="104.3" y="108.8">PAID</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

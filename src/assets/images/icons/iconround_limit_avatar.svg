@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Icon/round_limit">
+    <path d="M11.999 0L12.001 0C18.6279 0 24 5.37214 24 11.999L24 12.001C24 18.6279 18.6279 24 12.001 24L11.999 24C5.37214 24 0 18.6279 0 12.001L0 11.999C0 5.37214 5.37214 0 11.999 0Z" id="Rectangle" fill="#DFEBFF" stroke="none" />
+    <g id="Icons/property_blue" transform="translate(4 4)">
+      <path d="M3.5 3.5C3.5 1.56543 5.06543 0 7 0C8.93457 0 10.5 1.56543 10.5 3.5C10.5 5.43457 8.93457 7 7 7C5.06543 7 3.5 5.43457 3.5 3.5ZM0 11.9492C0 11.9492 1.09717 9.23193 4.40234 8.23047C4.5835 9.50537 5.67725 10.5 7 10.5C8.32275 10.5 9.4165 9.50537 9.59766 8.23047C12.9028 9.23193 14 11.9492 14 11.9492L14 14L0 14L0 11.9492Z" transform="translate(1 1)" id="Shape" fill="#1A5DC6" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

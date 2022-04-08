@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="578px" height="620px" viewBox="0 0 578 620" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Image_Payments</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,33 L308,33 C314.075132,33 319,37.9248678 319,44 L319,371 C319,377.075132 314.075132,382 308,382 L11,382 C4.92486775,382 7.43989126e-16,377.075132 0,371 L0,44 C-7.43989126e-16,37.9248678 4.92486775,33 11,33 Z" id="path-1"></path>
+        <filter x="-15.5%" y="-14.2%" width="131.0%" height="128.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35,0 L389,0 C395.075132,-1.11598369e-15 400,4.92486775 400,11 L400,400 C400,406.075132 395.075132,411 389,411 L35,411 C28.9248678,411 24,406.075132 24,400 L24,11 C24,4.92486775 28.9248678,1.11598369e-15 35,0 Z" id="path-3"></path>
+        <filter x="-13.2%" y="-12.0%" width="126.3%" height="124.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="311.04" height="56.16"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="311.04" height="56.16" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M8,0 L405,0 C409.418278,-8.11624501e-16 413,3.581722 413,8 L413,213 C413,217.418278 409.418278,221 405,221 L8,221 C3.581722,221 5.41083001e-16,217.418278 0,213 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-7"></path>
+        <filter x="-12.0%" y="-22.4%" width="124.0%" height="144.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.506950608   0 0 0 0 0.506950608   0 0 0 0 0.544610507  0 0 0 0.0983391608 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Landlord" transform="translate(-749.000000, -1996.000000)">
+            <g id="Block-3" transform="translate(-515.000000, 213.000000)">
+                <g id="Image_Payments" transform="translate(1208.000000, 1761.000000)">
+                    <g id="Card" transform="translate(89.000000, 55.000000)">
+                        <g id="Group-Copy">
+                            <g id="Group-48">
+                                <g id="Base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="Base">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                            <g id="Group-47" transform="translate(56.000000, 33.000000)">
+                                <text id="Receiving-method" font-family="Overpass-Bold, Overpass" font-size="20.16" font-weight="bold" line-spacing="23.04" fill="#222634">
+                                    <tspan x="0" y="20">Receiving method</tspan>
+                                </text>
+                                <g id="Add-method" transform="translate(0.000000, 52.000000)">
+                                    <use id="Rectangle" stroke="#1A5DC6" mask="url(#mask-6)" stroke-width="1.44" fill-opacity="0.0325611888" fill="#FFFFFF" fill-rule="nonzero" stroke-dasharray="2.880000042915345,2.880000042915345" xlink:href="#path-5"></use>
+                                    <text id="Add-receiving-method" font-family="Roboto-Medium, Roboto" font-size="10.08" font-weight="400" line-spacing="14.4" fill="#1A5DC6">
+                                        <tspan x="17.28" y="29.88">Add receiving method</tspan>
+                                    </text>
+                                    <g id="Icons/16/plus_blue" transform="translate(276.480000, 19.440000)" fill="#1A5DC6">
+                                        <polygon id="Path" points="7.92 3.6 7.92 7.92 3.6 7.92 3.6 9.36 7.92 9.36 7.92 13.68 9.36 13.68 9.36 9.36 13.68 9.36 13.68 7.92 9.36 7.92 9.36 3.6"></polygon>
+                                    </g>
+                                </g>
+                                <g id="Cards/Payment_default" transform="translate(0.000000, 129.600000)">
+                                    <g id="Icons/Highlight-green" transform="translate(213.840000, 13.680000)" fill="#4CAF50" fill-rule="nonzero">
+                                        <circle id="Oval" opacity="0.200000003" cx="4.32" cy="4.32" r="4.32"></circle>
+                                        <circle id="Oval" cx="4.32" cy="4.32" r="2.16"></circle>
+                                    </g>
+                                    <text id="Default" font-family="SourceSansPro-Black, Source Sans Pro" font-size="8.64" font-weight="700" line-spacing="11.52" fill="#4CAF50">
+                                        <tspan x="225.36" y="21.24">DEFAULT</tspan>
+                                    </text>
+                                    <text id="Ending-in-2858" font-family="Roboto-Regular, Roboto" font-size="9.36" font-weight="normal" line-spacing="17.28" fill="#9BA0B5">
+                                        <tspan x="53.28" y="26.28">Ending in 2858</tspan>
+                                    </text>
+                                    <text id="MasterCard" font-family="Roboto-Black, Roboto" font-size="10.08" font-weight="700" line-spacing="14.4" fill="#222634">
+                                        <tspan x="53.28" y="10.44">MasterCard</tspan>
+                                    </text>
+                                    <g id="Logo/Mastercard" transform="translate(11.520000, 7.200000)" fill-rule="evenodd" stroke-width="1">
+                                        <g id="Mastercard_logo" transform="translate(0.000000, 1.440000)">
+                                            <ellipse id="Oval" fill="#FF5722" cx="9.25714286" cy="9.36" rx="9.25714286" ry="9.36"></ellipse>
+                                            <ellipse id="Oval" fill="#FF9900" opacity="0.800000012" cx="19.5428571" cy="9.36" rx="9.25714286" ry="9.36"></ellipse>
+                                        </g>
+                                    </g>
+                                    <polygon id="filled_field" fill="#EEEEF2" fill-rule="evenodd" points="0 45.36 311.04 45.36 311.04 46.08 0 46.08"></polygon>
+                                    <g id="Icons/16/arrow-right_default" transform="translate(282.240000, 11.520000)" fill="#3B3F4E" fill-rule="nonzero">
+                                        <polygon id="Shape" points="3.6 8.514 6.27012146 5.76 3.6 3.006 4.42202429 2.16 7.92 5.76 4.42202429 9.36"></polygon>
+                                    </g>
+                                </g>
+                                <g id="Cards/Payment" transform="translate(0.000000, 204.480000)">
+                                    <g id="Logo/Nedbank" transform="translate(11.520000, 9.360000)" fill="#004E3B" fill-rule="evenodd" stroke-width="1">
+                                        <g id="Nedbank_logo" transform="translate(0.000000, 4.320000)">
+                                            <path d="M1.34787273,12.5336324 L1.31334545,12.5336324 C1.13612727,12.5336324 0.993436364,12.4747382 0.905236364,12.3708942 C0.821290909,12.2621286 0.776945455,12.0258957 0.767127273,11.6410329 L0.728018182,10.1617884 L0.737672727,10.1521094 L3.06916364,12.8146511 L3.40347273,12.8146511 C3.41345455,12.755757 3.41345455,12.7309853 3.41345455,12.671599 C3.41345455,12.5926906 3.40347273,12.5041033 3.38907273,12.4302805 L3.35929091,12.2821428 C3.33965455,12.1835484 3.32476364,12.0208101 3.32476364,11.8974441 L3.29547273,10.3343696 L3.29547273,10.3048405 C3.29547273,9.78217519 3.35454545,9.68358076 3.71830909,9.63452962 C3.72354545,9.63452962 3.7332,9.63452962 3.74301818,9.62928 L3.74301818,9.40256203 L2.47401818,9.40256203 L2.47401818,9.62928 C2.71014545,9.63912304 2.82305455,9.67849519 2.907,9.77708962 C2.97589091,9.86584101 3.02481818,10.1371808 3.0348,10.5610876 L3.06916364,11.4979808 L3.05934545,11.5078238 L1.20976364,9.40256203 L3.11750625e-13,9.40256203 L3.11750625e-13,9.62928 C0.162327273,9.65405165 0.299945455,9.72278886 0.482236364,9.87092658 L0.501872727,9.89061266 L0.526090909,11.75472 L0.526090909,11.8141063 C0.526090909,12.0058815 0.521345455,12.0997185 0.4968,12.2134056 C0.447709091,12.4251949 0.290127273,12.5336324 0.0443454545,12.5336324 L0.0145636364,12.5336324 L0.0145636364,12.7654359 L1.34787273,12.7654359 L1.34787273,12.5336324" id="Fill-2"></path>
+                                            <path d="M7.75750909,9.40256203 L4.52552727,9.40256203 L4.52552727,9.62928 L4.57494545,9.62928 C4.87489091,9.62928 4.96341818,9.75264608 4.96341818,10.167038 L4.96341818,12.0011241 C4.96341818,12.4153519 4.87489091,12.5336324 4.57494545,12.5336324 L4.52552727,12.5336324 L4.52552727,12.7654359 L7.83114545,12.7654359 L7.97383636,11.9320587 L7.63445455,11.9320587 L7.59992727,11.9715949 C7.42270909,12.1835484 7.29949091,12.2872284 7.11294545,12.3907443 C6.9012,12.5141104 6.78321818,12.5336324 6.39474545,12.5336324 C5.967,12.5336324 5.83429091,12.4102663 5.83429091,12.0160527 L5.83429091,11.1134461 L6.30147273,11.1134461 C6.56230909,11.1134461 6.67030909,11.1234532 6.76374545,11.1628253 C6.90643636,11.2171261 7.01967273,11.3652638 7.06352727,11.5573671 L7.38818182,11.5573671 L7.38818182,10.4675787 L7.06352727,10.4675787 C7.02949091,10.5957023 7.00952727,10.6354025 6.9408,10.7190684 C6.83263636,10.8471919 6.68012727,10.8870562 6.2964,10.8870562 L5.83429091,10.8870562 L5.83429091,9.62928 L6.52254545,9.62928 C6.72447273,9.62928 6.83738182,9.64896608 6.95536364,9.69850937 C7.11294545,9.76265316 7.22110909,9.85140456 7.39832727,10.073037 L7.43285455,10.1127372 L7.75750909,10.1127372 L7.75750909,9.40256203" id="Fill-3"></path>
+                                            <path d="M8.51530909,9.40256203 L8.51530909,9.62928 L8.55441818,9.62928 C8.85943636,9.62928 8.94812727,9.75264608 8.94812727,10.167038 L8.94812727,12.0011241 C8.94812727,12.4153519 8.85943636,12.5336324 8.55441818,12.5336324 L8.51530909,12.5336324 L8.51530909,12.7654359 L10.2416727,12.7654359 C10.7235818,12.7703575 10.8957273,12.7506714 11.1367636,12.6865276 C11.9142,12.4840891 12.4155818,11.8434714 12.4155818,11.0394592 C12.4155818,10.4577357 12.1450909,9.93982785 11.6926364,9.65405165 C11.5746545,9.57973671 11.4367091,9.52084253 11.2892727,9.48147038 C11.0778545,9.4222481 10.9053818,9.40256203 10.5514364,9.40256203 L8.51530909,9.40256203 Z M9.81867273,9.62928 L9.94647273,9.62928 L10.1088,9.63452962 C10.6447091,9.63912304 10.8564545,9.70326684 11.0826,9.94491342 C11.2205455,10.0879656 11.3238,10.2603828 11.3825455,10.4478927 C11.4516,10.6696891 11.4861273,10.9065782 11.4861273,11.1582319 C11.4861273,11.7940922 11.2547455,12.2722997 10.8759273,12.435038 C10.7533636,12.4891747 10.5318,12.5285468 10.3545818,12.5285468 C9.95629091,12.5285468 9.81867273,12.3756516 9.81867273,11.9469873 L9.81867273,9.62928 L9.81867273,9.62928 Z" id="Fill-4"></path>
+                                            <path d="M12.8683636,9.40256203 L12.8683636,9.62928 L12.9127091,9.62928 C13.2124909,9.62928 13.3011818,9.75264608 13.3011818,10.167038 L13.3011818,12.0011241 C13.3011818,12.4201094 13.2177273,12.5336324 12.8978182,12.5336324 L12.8781818,12.5336324 L12.8781818,12.7654359 L14.8750364,12.7654359 C15.4111091,12.7703575 15.6375818,12.7258997 15.8984182,12.5879332 C16.1836364,12.435038 16.3703455,12.1441762 16.3703455,11.8434714 C16.3703455,11.3993863 16.0064182,11.0988456 15.3474545,11.0002511 L15.3474545,10.9902441 C15.6128727,10.9361073 15.7010727,10.9065782 15.8735455,10.8127413 C16.1245636,10.6747747 16.2672545,10.4428071 16.2672545,10.1916456 C16.2672545,9.6934238 15.8097273,9.40256203 15.0177273,9.40256203 L12.8683636,9.40256203 Z M14.1717273,10.9065782 L14.1717273,9.62928 L14.5994727,9.62928 C14.8457455,9.62928 14.9342727,9.65405165 15.0718909,9.75264608 C15.2440364,9.88076962 15.3373091,10.0781225 15.3373091,10.3146835 C15.3373091,10.5067868 15.2733273,10.6452456 15.1456909,10.7584405 C15.0126545,10.8721276 14.9044909,10.9065782 14.6587091,10.9065782 L14.1717273,10.9065782 Z M14.1717273,11.1433033 L14.6488909,11.1433033 C15.1162364,11.1433033 15.4358182,11.4390866 15.4358182,11.8726724 C15.4358182,12.2919858 15.1504364,12.538882 14.6637818,12.538882 C14.3289818,12.538882 14.1717273,12.3659727 14.1717273,11.9914451 L14.1717273,11.1433033 L14.1717273,11.1433033 Z" id="Fill-5"></path>
+                                            <path d="M18.8384727,11.4979808 L19.0600364,12.0554248 C19.0647818,12.0703534 19.0746,12.0997185 19.0844182,12.1441762 C19.1142,12.2427706 19.1192727,12.2573711 19.1192727,12.2967433 C19.1192727,12.435038 18.9760909,12.5285468 18.7648364,12.5336324 L18.7648364,12.7654359 L20.4321273,12.7654359 L20.4321273,12.5336324 C20.2208727,12.5336324 20.1024,12.4153519 19.9600364,12.0554248 L18.9126,9.36318987 L17.9977091,9.36318987 L18.1255091,9.64420861 L17.2201091,11.9520729 C17.0481273,12.3953377 16.9697455,12.4747382 16.6498364,12.5336324 L16.6498364,12.7654359 L17.8054364,12.7654359 L17.8054364,12.5336324 C17.5797818,12.5041033 17.4762,12.4153519 17.4762,12.2378491 C17.4762,12.1689478 17.5056545,12.0354106 17.5452545,11.9174582 L17.6926909,11.4979808 L18.8384727,11.4979808 Z M18.7303091,11.207283 L17.8054364,11.207283 L18.2434909,9.96968506 L18.7303091,11.207283 L18.7303091,11.207283 Z" id="Fill-6"></path>
+                                            <path d="M22.1238,12.5336324 L22.0887818,12.5336324 C21.9120545,12.5336324 21.7693636,12.4747382 21.6806727,12.3708942 C21.5972182,12.2621286 21.5528727,12.0258957 21.5430545,11.6410329 L21.5039455,10.1617884 L21.5134364,10.1521094 L23.8450909,12.8146511 L24.1795636,12.8146511 C24.1893818,12.755757 24.1893818,12.7309853 24.1893818,12.671599 C24.1893818,12.5926906 24.1795636,12.5041033 24.1646727,12.4302805 L24.1348909,12.2821428 C24.1155818,12.1835484 24.1006909,12.0208101 24.1006909,11.8974441 L24.0709091,10.3343696 L24.0709091,10.3048405 C24.0709091,9.78217519 24.1301455,9.68358076 24.4939091,9.63452962 C24.4991455,9.63452962 24.5088,9.63452962 24.5186182,9.62928 L24.5186182,9.40256203 L23.2496182,9.40256203 L23.2496182,9.62928 C23.4855818,9.63912304 23.5989818,9.67849519 23.6824364,9.77708962 C23.7514909,9.86584101 23.8009091,10.1371808 23.8102364,10.5610876 L23.8450909,11.4979808 L23.8352727,11.5078238 L21.9856909,9.40256203 L20.7756,9.40256203 L20.7756,9.62928 C20.9377636,9.65405165 21.0758727,9.72278886 21.2576727,9.87092658 L21.2778,9.89061266 L21.3020182,11.75472 L21.3020182,11.8141063 C21.3020182,12.0058815 21.2969455,12.0997185 21.2725636,12.2134056 C21.2231455,12.4251949 21.0660545,12.5336324 20.8202727,12.5336324 L20.7904909,12.5336324 L20.7904909,12.7654359 L22.1238,12.7654359 L22.1238,12.5336324" id="Fill-7"></path>
+                                            <path d="M27.1703455,9.62928 L27.2047091,9.62928 C27.3573818,9.62928 27.4554,9.70326684 27.4554,9.81662582 C27.4554,9.92982076 27.2785091,10.1521094 27.0322364,10.3540557 L26.2996364,10.9510359 L26.2996364,10.167038 C26.2996364,9.75264608 26.3881636,9.62928 26.6933455,9.62928 L26.7324545,9.62928 L26.7324545,9.40256203 L24.9961091,9.40256203 L24.9961091,9.62928 L25.0506,9.62928 C25.3551273,9.62928 25.4441455,9.75264608 25.4441455,10.167038 L25.4441455,12.0011241 C25.4441455,12.4153519 25.3551273,12.5336324 25.0506,12.5336324 L24.9961091,12.5336324 L24.9961091,12.7654359 L26.7226364,12.7654359 L26.7226364,12.5336324 L26.6933455,12.5336324 C26.3881636,12.5336324 26.2996364,12.4153519 26.2996364,12.0011241 L26.2996364,11.19744 L27.3176182,12.3953377 C27.3964909,12.4891747 27.4979455,12.5725124 27.6388364,12.6461711 C27.7728545,12.7160567 28.0076727,12.7654359 28.0076727,12.7654359 L28.7587636,12.7654359 L28.7587636,12.5336324 C28.5769636,12.5041033 28.4146364,12.3854947 28.1734364,12.114319 L26.9586,10.7238258 L27.7798909,10.0336648 C28.1492182,9.72278886 28.2033818,9.6934238 28.5278727,9.62928 L28.5278727,9.40256203 L27.1703455,9.40256203 L27.1703455,9.62928" id="Fill-8"></path>
+                                            <path d="M10.8733091,3.91392 C10.8733091,2.98801823 11.2328182,2.11740152 11.8862182,1.46267544 C12.5394545,0.807949367 13.4073818,0.447530127 14.3314364,0.447530127 C15.255,0.447530127 16.1234182,0.807949367 16.7764909,1.46267544 C17.4295636,2.11740152 17.7890727,2.98801823 17.7890727,3.91392 C17.7890727,4.83998582 17.4295636,5.71093063 16.7764909,6.36532861 C16.1234182,7.02005468 15.255,7.38080203 14.3314364,7.38080203 C13.4073818,7.38080203 12.5394545,7.02005468 11.8862182,6.36532861 C11.2328182,5.71093063 10.8733091,4.83998582 10.8733091,3.91392 Z M10.4267455,3.91392 C10.4267455,4.95941468 10.8328909,5.94273418 11.5704,6.68194633 C12.3077455,7.42132253 13.2882545,7.82833215 14.3314364,7.82833215 C15.3741273,7.82833215 16.3546364,7.42132253 17.0921455,6.68194633 C17.8294909,5.94273418 18.2354727,4.95941468 18.2354727,3.91392 C18.2354727,2.86858937 17.8294909,1.88559797 17.0921455,1.14622177 C16.3546364,0.40700962 15.3741273,8.8817842e-15 14.3314364,8.8817842e-15 C13.2882545,8.8817842e-15 12.3077455,0.40700962 11.5704,1.14622177 C10.8328909,1.88559797 10.4267455,2.86858937 10.4267455,3.91392 L10.4267455,3.91392 Z" id="Fill-9"></path>
+                                            <path d="M14.3882182,2.29506835 L15.5459455,1.49614177 L16.7869636,2.32656608 L16.7869636,5.51193722 L15.6176182,6.30118481 L14.4301091,5.54064608 L13.1941636,6.33448709 L11.8749273,5.54343494 L11.8854,2.33706532 L13.1004,1.49384506 L14.3882182,2.29506835 Z M13.1427818,1.82588354 L12.1698,2.48569519 L16.4965091,5.3142562 L16.5051818,2.50275646 L15.5930727,1.91004152 L15.5930727,3.45096911 L13.1427818,1.82588354 Z M14.1298364,5.36855696 L13.1941636,4.75189063 L13.1941636,5.98046582 L14.1298364,5.36855696 L14.1298364,5.36855696 Z" id="Fill-10"></path>
+                                        </g>
+                                    </g>
+                                    <text id="Checking-account-end" font-family="Roboto-Regular, Roboto" font-size="9.36" font-weight="normal" line-spacing="17.28" fill="#9BA0B5">
+                                        <tspan x="53.28" y="25.56">Checking account ending in 6532</tspan>
+                                    </text>
+                                    <text id="Banking-account-#1" font-family="Roboto-Black, Roboto" font-size="10.08" font-weight="700" line-spacing="14.4" fill="#222634">
+                                        <tspan x="53.28" y="9.72">Banking account #1</tspan>
+                                    </text>
+                                    <polygon id="filled_field" fill="#EEEEF2" fill-rule="evenodd" points="0 45.36 311.04 45.36 311.04 46.08 0 46.08"></polygon>
+                                    <g id="Icons/16/arrow-right_default" transform="translate(282.240000, 11.520000)" fill="#3B3F4E" fill-rule="nonzero">
+                                        <polygon id="Shape" points="3.6 8.514 6.27012146 5.76 3.6 3.006 4.42202429 2.16 7.92 5.76 4.42202429 9.36"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2-Copy" transform="translate(188.000000, 372.000000)">
+                        <g id="Card" transform="translate(0.000000, 16.000000)">
+                            <g id="Group-44" transform="translate(114.000000, 81.000000)">
+                                <g id="Group-39">
+                                    <g id="Line-01">
+                                        <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="188" y="21">Due</tspan>
+                                        </text>
+                                        <g id="Icons/Highlight-disabled" transform="translate(168.000000, 10.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                            <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                            <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                        </g>
+                                        <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="0" y="13">May Rent</tspan>
+                                        </text>
+                                        <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="0" y="37">Bank of Africa X1234</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-44" transform="translate(18.000000, 61.000000)">
+                                <g id="Group-39">
+                                    <g id="Line-01">
+                                        <text id="May-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="0" y="13">May 25, 2019</tspan>
+                                        </text>
+                                        <text id="1:00-PM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="0" y="37">1:00 PM</tspan>
+                                        </text>
+                                        <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="308" y="21">Due</tspan>
+                                        </text>
+                                        <g id="Icons/Highlight-disabled" transform="translate(288.000000, 10.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                            <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                            <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                        </g>
+                                        <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                            <tspan x="120" y="13">May Rent</tspan>
+                                        </text>
+                                        <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                            <tspan x="120" y="37">Bank of Africa X1234</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-44">
+                                <g id="Group-49">
+                                    <g id="Base">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    </g>
+                                    <text id="Mar-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="40" y="145">Mar 25, 2019</tspan>
+                                    </text>
+                                    <text id="10:15-AM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="40" y="169">10:15 AM</tspan>
+                                    </text>
+                                    <polygon id="Rectangle" fill="#EEEEF2" fill-rule="nonzero" points="40 103 377 103 377 104 40 104"></polygon>
+                                    <text id="Paid" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="348" y="157">Paid</tspan>
+                                    </text>
+                                    <g id="Icons/Highlight-green" transform="translate(328.000000, 147.000000)" fill="#4CAF50" fill-rule="nonzero">
+                                        <circle id="Oval" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                        <circle id="Oval" cx="6" cy="6" r="3"></circle>
+                                    </g>
+                                    <text id="March-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="160" y="145">March Rent</tspan>
+                                    </text>
+                                    <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="160" y="169">Bank of Africa X1234</tspan>
+                                    </text>
+                                    <text id="May-25,-2019" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="40" y="52">May 25, 2019</tspan>
+                                    </text>
+                                    <text id="1:00-PM" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="40" y="76">1:00 PM</tspan>
+                                    </text>
+                                    <text id="Due" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="348" y="60">Due</tspan>
+                                    </text>
+                                    <g id="Icons/Highlight-disabled" transform="translate(328.000000, 49.000000)" fill="#9BA0B5" fill-rule="nonzero">
+                                        <circle id="Oval-Copy-9" opacity="0.200000003" cx="6" cy="6" r="6"></circle>
+                                        <circle id="Oval-Copy-10" cx="6" cy="6" r="3"></circle>
+                                    </g>
+                                    <text id="May-Rent" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#443F56">
+                                        <tspan x="160" y="52">May Rent</tspan>
+                                    </text>
+                                    <text id="Bank-of-Africa-X1234" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#9BA0B5">
+                                        <tspan x="160" y="76">Bank of Africa X1234</tspan>
+                                    </text>
+                                </g>
+                                <g id="Line-03" transform="translate(40.000000, 103.000000)"></g>
+                                <g id="Group-39" transform="translate(40.000000, 39.000000)">
+                                    <g id="Line-01"></g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Blue-Button_default" transform="translate(40.000000, 0.000000)">
+                            <polygon id="Base" fill="#1A5DC6" fill-rule="nonzero" points="-1.22298005e-16 0 141 0 141 32 -1.22298005e-16 32"></polygon>
+                            <text id="Create-Listing" font-family="Overpass-Black, Overpass" font-size="12" font-weight="700" line-spacing="16" letter-spacing="0.400000006" fill="#FFFFFF">
+                                <tspan x="13.924" y="18">REQUEST  R11,960</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

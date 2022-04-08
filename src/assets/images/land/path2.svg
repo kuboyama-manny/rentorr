@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3300px" height="2757px" viewBox="0 0 3300 2757" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Path-3-Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.4217317%" y1="-3.39037424%" x2="39.9647051%" y2="39.7013251%" id="linearGradient-1">
+            <stop stop-color="#93959C" stop-opacity="0.351753715" offset="17%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.0419553%" y1="12.744189%" x2="56.6407327%" y2="51.3833995%" id="linearGradient-2">
+            <stop stop-color="#93959C" stop-opacity="0.351753715" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.684384301">
+        <g id="Artboard" transform="translate(-143.000000, -753.000000)" fill="url(#linearGradient-2)" fill-rule="nonzero">
+            <g id="first-right" transform="translate(143.000000, 753.000000)">
+                <g id="Page-1">
+                    <g id="Artboard">
+                        <polygon id="Path-3-Copy" transform="translate(1650.000000, 1378.459060) scale(-1, 1) translate(-1650.000000, -1378.459060) " points="1.98528693e-11 1931.74203 1.75859327e-11 -9.09494702e-13 1939.46238 1395.83727 3300 2756.91812 1.98528693e-11 2756.91812"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

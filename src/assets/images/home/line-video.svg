@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2823px" height="2358px" viewBox="0 0 2823 2358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>first</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.90088098%" y1="7.95242602%" x2="50%" y2="44.9834973%" id="linearGradient-1">
+            <stop stop-color="#93959C" offset="0%"></stop>
+            <stop stop-color="#D7DBE6" stop-opacity="0.00592766608" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3466.000000, -4864.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="right-first" transform="translate(3466.000000, 4864.000000)">
+                <polygon id="first" transform="translate(1411.444426, 1179.000000) scale(-1, 1) translate(-1411.444426, -1179.000000) " points="1910.88886 28 1931.88886 0 2822.88886 610 2806.88886 2358 -3.99999999e-06 2358"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

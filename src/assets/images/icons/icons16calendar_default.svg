@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="16" height="16" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Icons/16/calendar_default" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M12.1833 1.43333L12.9 1.43333C13.6883 1.43333 14.3333 2.07833 14.3333 2.86667L14.3333 14.3333C14.3333 15.1217 13.6883 15.7667 12.9 15.7667L1.43333 15.7667C0.645 15.7667 0 15.1217 0 14.3333L0 2.86667C0 2.07833 0.645 1.43333 1.43333 1.43333L2.15 1.43333L2.15 0L3.58333 0L3.58333 1.43333L10.75 1.43333L10.75 0L12.1833 0L12.1833 1.43333ZM1.43333 14.3333L12.9 14.3333L12.9 5.01667L1.43333 5.01667L1.43333 14.3333Z" transform="translate(1 0)" id="Shape" fill="#666B7C" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

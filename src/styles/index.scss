@@ -1,0 +1,134 @@
+// import toasty style
+@import "../../node_modules/react-toastify/dist/ReactToastify.css";
+@import "../../node_modules/react-toastify/dist/ReactToastify.min.css";
+
+// import colors style
+@import "./common/colors";
+
+// import variables style
+@import "./common/variables";
+
+// import fonts style
+@import "./common/fonts";
+
+// import base style
+@import "./base/base";
+
+// import blue button style
+@import "../components/common/buttons/blueButton/style";
+
+// import white button style
+@import "../components/common/buttons/whiteButton/style";
+
+// import base modal style
+@import "../components/common/modals/baseModal/style";
+
+// import header dropdown menu style
+@import "../components/common/dropDowns/headerDropDown/style";
+
+// import main loader style
+@import "../components/common/wrappers/loadingWrapper/mainLoader/style";
+
+// import landlord wrapper style
+@import "../components/common/wrappers/landlordWrapper/style";
+
+// import menu style
+@import "../components/common/menu/style";
+
+// import setting layout style
+@import "../components/common/settingLayout/style";
+
+// import header style
+@import "../layouts/header/style";
+
+// import footer style
+@import "../layouts/footer/style";
+
+// import sign in style
+@import "../components/authentication/signIn/style";
+
+// import forgot password style
+@import "../components/authentication/forgotPassword/style";
+
+// import sign up style
+@import "../components/authentication/signUp/style";
+
+// import select role style
+@import "../components/authentication/selectRole/style";
+
+// import check email style
+@import "../components/authentication/checkEmail/style";
+
+// import landing page style
+@import "../components/landing/style";
+
+// import landlord page style
+@import "../components/landlord/style";
+
+// import collect rent one style
+@import "../components/collectRentOnline/style";
+
+// import list property style
+@import "../components/listProperty/style";
+
+// import create property style
+@import "../components/createProperty/style";
+
+//import rental form style
+@import "../components/rentalForms/style";
+
+// import tenant screening style
+@import "../components/tenantScreening/style";
+
+// import application preview style
+@import "../components/common/modals/applicationPreview/style";
+
+// import overview style
+@import "../components/overview/style";
+
+// import listings style
+@import "../components/listings/style";
+
+// import properties style
+@import "../components/properties/style";
+
+// import property details style
+@import "../components/propertyDetails/style";
+
+// import documents style
+@import "../components/documents/style";
+
+// import settings style
+@import "../components/settings/landlord/generalSettings/style";
+@import "../components/settings/landlord/securitySettings/style";
+@import "../components/settings/landlord/phoneVerification/style";
+@import "../components/settings/landlord/idVerification/style";
+@import "../components/settings/landlord/companyDetails/style";
+@import "../components/settings/landlord/addReceivingMethod/style";
+
+// import tenant style
+@import "../components/tenant/style";
+
+// import rental applications style
+@import "../components/rentalApplications/style";
+
+// import pay rent online style
+@import "../components/payRentOnline/style";
+
+// import maintenance requests style
+@import "../components/maintenanceRequests/style";
+
+// import settings style
+@import "../components/settings/tenant/securitySettings/style";
+
+// import terms style
+@import "../components/terms/style";
+
+// import privacy style
+@import "../components/privacy/style";
+
+// import keep in touch style
+@import "../components/keepInTouch/style";
+
+// import error 404 style
+@import "../components/errorHandling/error404/style";
